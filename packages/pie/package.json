@@ -19,7 +19,6 @@
         "charts",
         "pie-chart"
     ],
-    "main": "./dist/nivo-pie.cjs.js",
     "module": "./dist/nivo-pie.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

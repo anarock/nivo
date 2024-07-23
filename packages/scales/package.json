@@ -11,7 +11,6 @@
         "url": "https://github.com/plouc/nivo.git",
         "directory": "packages/scales"
     },
-    "main": "./dist/nivo-scales.cjs.js",
     "module": "./dist/nivo-scales.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

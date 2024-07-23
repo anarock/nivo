@@ -19,7 +19,6 @@
         "charts",
         "sunburst-chart"
     ],
-    "main": "./dist/nivo-sunburst.cjs.js",
     "module": "./dist/nivo-sunburst.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

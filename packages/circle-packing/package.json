@@ -19,7 +19,6 @@
         "charts",
         "circle-packing"
     ],
-    "main": "./dist/nivo-circle-packing.cjs.js",
     "module": "./dist/nivo-circle-packing.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

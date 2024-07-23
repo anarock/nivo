@@ -11,7 +11,6 @@
         "url": "https://github.com/plouc/nivo.git",
         "directory": "packages/express"
     },
-    "main": "./dist/nivo-express.cjs.js",
     "module": "./dist/nivo-express.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

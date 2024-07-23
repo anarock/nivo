@@ -19,7 +19,6 @@
         "charts",
         "treemap-chart"
     ],
-    "main": "./dist/nivo-treemap.cjs.js",
     "module": "./dist/nivo-treemap.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

@@ -79,17 +79,4 @@ const configs = [
     }
 ]
 
-if (!isWatching) {
-    configs.push({
-        ...common,
-        output: {
-            file: `./packages/${pkg}/dist/nivo-${pkg}.cjs.js`,
-            format: 'cjs',
-            name: `@anarock/nivo-${pkg}`,
-            sourcemap: true,
-        },
-        plugins: commonPlugins,
-    })
-}
-
 export default configs

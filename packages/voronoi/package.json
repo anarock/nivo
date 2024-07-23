@@ -19,7 +19,6 @@
         "charts",
         "voronoi"
     ],
-    "main": "./dist/nivo-voronoi.cjs.js",
     "module": "./dist/nivo-voronoi.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

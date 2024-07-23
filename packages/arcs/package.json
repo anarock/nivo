@@ -18,7 +18,6 @@
         "d3",
         "arcs"
     ],
-    "main": "./dist/nivo-arcs.cjs.js",
     "module": "./dist/nivo-arcs.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

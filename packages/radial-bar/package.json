@@ -19,7 +19,6 @@
         "charts",
         "radial-bar-chart"
     ],
-    "main": "./dist/nivo-radial-bar.cjs.js",
     "module": "./dist/nivo-radial-bar.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

@@ -19,7 +19,6 @@
         "charts",
         "bar-chart"
     ],
-    "main": "./dist/nivo-bar.cjs.js",
     "module": "./dist/nivo-bar.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

@@ -19,7 +19,6 @@
         "charts",
         "radar-chart"
     ],
-    "main": "./dist/nivo-radar.cjs.js",
     "module": "./dist/nivo-radar.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

@@ -19,7 +19,6 @@
         "charts",
         "chord-diagram"
     ],
-    "main": "./dist/nivo-chord.cjs.js",
     "module": "./dist/nivo-chord.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

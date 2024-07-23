@@ -20,7 +20,6 @@
         "geo",
         "map"
     ],
-    "main": "./dist/nivo-geo.cjs.js",
     "module": "./dist/nivo-geo.es.js",
     "files": [
         "README.md",

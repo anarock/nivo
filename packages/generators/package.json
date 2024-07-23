@@ -17,7 +17,6 @@
         "url": "https://github.com/plouc/nivo.git",
         "directory": "packages/generators"
     },
-    "main": "./dist/nivo-generators.cjs.js",
     "module": "./dist/nivo-generators.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

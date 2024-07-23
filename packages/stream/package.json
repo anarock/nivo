@@ -19,7 +19,6 @@
         "charts",
         "stream-chart"
     ],
-    "main": "./dist/nivo-stream.cjs.js",
     "module": "./dist/nivo-stream.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

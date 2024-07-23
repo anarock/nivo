@@ -24,7 +24,6 @@
         "statistics",
         "stats"
     ],
-    "main": "./dist/nivo-boxplot.cjs.js",
     "module": "./dist/nivo-boxplot.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

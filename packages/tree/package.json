@@ -20,7 +20,6 @@
         "hierarchy",
         "tree"
     ],
-    "main": "./dist/nivo-tree.cjs.js",
     "module": "./dist/nivo-tree.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

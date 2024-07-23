@@ -11,7 +11,6 @@
         "url": "https://github.com/plouc/nivo.git",
         "directory": "packages/tooltip"
     },
-    "main": "./dist/nivo-tooltip.cjs.js",
     "module": "./dist/nivo-tooltip.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

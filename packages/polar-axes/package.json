@@ -18,7 +18,6 @@
         "axes",
         "polar"
     ],
-    "main": "./dist/nivo-polar-axes.cjs.js",
     "module": "./dist/nivo-polar-axes.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

@@ -12,7 +12,6 @@
         "directory": "packages/text"
     },
     "sideEffects": false,
-    "main": "./dist/nivo-text.cjs.js",
     "module": "./dist/nivo-text.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

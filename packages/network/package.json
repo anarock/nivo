@@ -21,7 +21,6 @@
         "directed-layout",
         "network"
     ],
-    "main": "./dist/nivo-network.cjs.js",
     "module": "./dist/nivo-network.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

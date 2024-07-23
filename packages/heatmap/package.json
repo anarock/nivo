@@ -19,7 +19,6 @@
         "charts",
         "heatmap"
     ],
-    "main": "./dist/nivo-heatmap.cjs.js",
     "module": "./dist/nivo-heatmap.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

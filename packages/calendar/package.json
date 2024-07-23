@@ -19,7 +19,6 @@
         "charts",
         "calendar"
     ],
-    "main": "./dist/nivo-calendar.cjs.js",
     "module": "./dist/nivo-calendar.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

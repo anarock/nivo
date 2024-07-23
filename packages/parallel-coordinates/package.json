@@ -20,7 +20,6 @@
         "parrallel-coordinates-chart"
     ],
     "sideEffects": false,
-    "main": "./dist/nivo-parallel-coordinates.cjs.js",
     "module": "./dist/nivo-parallel-coordinates.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

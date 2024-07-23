@@ -17,7 +17,6 @@
         "react",
         "axes"
     ],
-    "main": "./dist/nivo-axes.cjs.js",
     "module": "./dist/nivo-axes.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

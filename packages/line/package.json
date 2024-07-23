@@ -19,7 +19,6 @@
         "charts",
         "line-chart"
     ],
-    "main": "./dist/nivo-line.cjs.js",
     "module": "./dist/nivo-line.es.js",
     "types": "./index.d.ts",
     "files": [

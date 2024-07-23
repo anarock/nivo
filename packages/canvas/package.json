@@ -18,7 +18,6 @@
         "d3",
         "canvas"
     ],
-    "main": "./dist/nivo-canvas.cjs.js",
     "module": "./dist/nivo-canvas.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

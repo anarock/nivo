@@ -19,7 +19,6 @@
         "charts",
         "scatterplot"
     ],
-    "main": "./dist/nivo-scatterplot.cjs.js",
     "module": "./dist/nivo-scatterplot.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [

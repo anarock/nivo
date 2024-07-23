@@ -12,7 +12,6 @@
         "url": "https://github.com/plouc/nivo.git",
         "directory": "packages/legends"
     },
-    "main": "./dist/nivo-legends.cjs.js",
     "module": "./dist/nivo-legends.es.js",
     "types": "./dist/types/index.d.ts",
     "files": [
