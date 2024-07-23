@@ -1,4 +1,4 @@
-import { ResponsiveGeoMap, ResponsiveGeoMapCanvas } from '@nivo/geo'
+import { ResponsiveGeoMap, ResponsiveGeoMapCanvas } from '@anarock/nivo-geo'
 import { countries } from '../data'
 import { useChart } from '../hooks'
 

@@ -4,7 +4,7 @@ import {
     divergingColorSchemeIds,
     sequentialColorSchemeIds,
     colorSchemes,
-} from '@nivo/colors'
+} from '@anarock/nivo-colors'
 import { Card } from '../../styled'
 
 const ColorsRanges = () => (

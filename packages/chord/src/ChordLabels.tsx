@@ -6,10 +6,10 @@ import {
     // @ts-ignore
     getPolarLabelProps,
     useTheme,
-} from '@nivo/core'
-import { useMotionConfig } from '@nivo/core'
+} from '@anarock/nivo-core'
+import { useMotionConfig } from '@anarock/nivo-core'
 import { ArcDatum, ChordCommonProps } from './types'
-import { useInheritedColor } from '@nivo/colors'
+import { useInheritedColor } from '@anarock/nivo-colors'
 
 interface ChordLabelsProps {
     arcs: ArcDatum[]

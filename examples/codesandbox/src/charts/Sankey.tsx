@@ -1,5 +1,5 @@
-import { ResponsiveSankey } from '@nivo/sankey'
-import { generateSankeyData } from '@nivo/generators'
+import { ResponsiveSankey } from '@anarock/nivo-sankey'
+import { generateSankeyData } from '@anarock/nivo-generators'
 import { useChart } from '../hooks'
 
 const props = {

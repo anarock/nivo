@@ -10,9 +10,9 @@ import {
     PropertyAccessor,
     CompleteTheme,
     Margin,
-} from '@nivo/core'
-import { OrdinalColorScaleConfig, InheritedColorConfig } from '@nivo/colors'
-import { TooltipAnchor, TooltipPosition } from '@nivo/tooltip'
+} from '@anarock/nivo-core'
+import { OrdinalColorScaleConfig, InheritedColorConfig } from '@anarock/nivo-colors'
+import { TooltipAnchor, TooltipPosition } from '@anarock/nivo-tooltip'
 
 export type TreeMode = 'tree' | 'dendogram'
 export type Layout = 'top-to-bottom' | 'right-to-left' | 'bottom-to-top' | 'left-to-right'

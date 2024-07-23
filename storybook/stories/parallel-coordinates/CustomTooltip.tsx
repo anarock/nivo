@@ -1,4 +1,4 @@
-import { TooltipProps, DatumGroupKeys, BaseDatum } from '@nivo/parallel-coordinates'
+import { TooltipProps, DatumGroupKeys, BaseDatum } from '@anarock/nivo-parallel-coordinates'
 
 export const CustomTooltip = <
     Datum extends BaseDatum,

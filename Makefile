@@ -116,7 +116,7 @@ endef
 ########################################################################################################################
 
 pkg-lint-%: ##@1 packages run eslint on package
-	@echo "${YELLOW}Running eslint on package ${WHITE}@nivo/${*}${RESET}"
+	@echo "${YELLOW}Running eslint on package ${WHITE}@anarock/nivo-${*}${RESET}"
 	@pnpm eslint ./packages/${*}/{src,tests}/**/*.{js,ts,tsx}
 
 pkgs-lint: ##@1 packages run eslint on all packages
@@ -171,7 +171,7 @@ pkg-types-%: ##@1 packages generate types for a specific package
     then \
         if [ -f "./packages/${*}/tsconfig.json" ]; \
 		then \
-			echo "${YELLOW}Building TypeScript types for package ${WHITE}@nivo/${*}${RESET}"; \
+			echo "${YELLOW}Building TypeScript types for package ${WHITE}@anarock/nivo-${*}${RESET}"; \
 			rm -rf ./packages/${*}/dist/types; \
 			rm -rf ./packages/${*}/dist/tsconfig.tsbuildinfo; \
 			pnpm tsc --build ./packages/${*}; \
@@ -208,7 +208,7 @@ pkgs-publish-next: ##@1 packages publish all packages for @next npm tag
 	@pnpm lerna publish --exact --npm-tag=next
 
 pkg-dev-%: ##@1 packages build package (es flavor) on change, eg. `pkg-dev-bar`
-	@echo "${YELLOW}Running build watcher for package ${WHITE}@nivo/${*}${RESET}"
+	@echo "${YELLOW}Running build watcher for package ${WHITE}@anarock/nivo-${*}${RESET}"
 	@rm -rf ./packages/${*}/cjs
 	@export PACKAGE=${*}; NODE_ENV=development BABEL_ENV=development ./node_modules/.bin/rollup -c conf/rollup.config.mjs -w
 

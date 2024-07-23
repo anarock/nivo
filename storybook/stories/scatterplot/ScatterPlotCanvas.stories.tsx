@@ -5,7 +5,7 @@ import {
     ResponsiveScatterPlotCanvas,
     ScatterPlotCanvas,
     ScatterPlotNodeData,
-} from '@nivo/scatterplot'
+} from '@anarock/nivo-scatterplot'
 
 const meta: Meta<typeof ScatterPlotCanvas> = {
     title: 'ScatterPlotCanvas',

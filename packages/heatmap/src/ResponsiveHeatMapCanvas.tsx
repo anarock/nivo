@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@anarock/nivo-core'
 import { DefaultHeatMapDatum, HeatMapCanvasProps, HeatMapDatum } from './types'
 import { HeatMapCanvas } from './HeatMapCanvas'
 

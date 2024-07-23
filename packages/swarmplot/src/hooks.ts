@@ -1,10 +1,10 @@
 import { useCallback, useMemo, MouseEvent } from 'react'
 import { ScaleOrdinal } from 'd3-scale'
-import { usePropertyAccessor, useValueFormatter } from '@nivo/core'
-import { useOrdinalColorScale } from '@nivo/colors'
-import { AnnotationMatcher, useAnnotations } from '@nivo/annotations'
-import { useTooltip } from '@nivo/tooltip'
-import { ScaleLinear, ScaleLinearSpec, ScaleTime, ScaleTimeSpec } from '@nivo/scales'
+import { usePropertyAccessor, useValueFormatter } from '@anarock/nivo-core'
+import { useOrdinalColorScale } from '@anarock/nivo-colors'
+import { AnnotationMatcher, useAnnotations } from '@anarock/nivo-annotations'
+import { useTooltip } from '@anarock/nivo-tooltip'
+import { ScaleLinear, ScaleLinearSpec, ScaleTime, ScaleTimeSpec } from '@anarock/nivo-scales'
 import {
     computeValueScale,
     computeOrdinalScale,

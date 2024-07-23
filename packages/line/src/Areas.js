@@ -1,6 +1,6 @@
 import { memo } from 'react'
 import { useSpring, animated } from '@react-spring/web'
-import { useAnimatedPath, useMotionConfig } from '@nivo/core'
+import { useAnimatedPath, useMotionConfig } from '@anarock/nivo-core'
 
 const AreaPath = ({ areaBlendMode, areaOpacity, color, fill, path }) => {
     const { animate, config: springConfig } = useMotionConfig()

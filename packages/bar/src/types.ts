@@ -1,6 +1,6 @@
 import * as React from 'react'
-import { AnnotationMatcher } from '@nivo/annotations'
-import { AxisProps, CanvasAxisProps, GridValues } from '@nivo/axes'
+import { AnnotationMatcher } from '@anarock/nivo-annotations'
+import { AxisProps, CanvasAxisProps, GridValues } from '@anarock/nivo-axes'
 import {
     Box,
     CartesianMarkerProps,
@@ -11,10 +11,10 @@ import {
     SvgDefsAndFill,
     Theme,
     ValueFormat,
-} from '@nivo/core'
-import { InheritedColorConfig, OrdinalColorScale, OrdinalColorScaleConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
-import { AnyScale, ScaleSpec, ScaleBandSpec } from '@nivo/scales'
+} from '@anarock/nivo-core'
+import { InheritedColorConfig, OrdinalColorScale, OrdinalColorScaleConfig } from '@anarock/nivo-colors'
+import { LegendProps } from '@anarock/nivo-legends'
+import { AnyScale, ScaleSpec, ScaleBandSpec } from '@anarock/nivo-scales'
 import { SpringValues } from '@react-spring/web'
 import { BarLabelLayout } from './compute/common'
 

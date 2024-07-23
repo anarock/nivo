@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
-import { generateDayCounts } from '@nivo/generators'
-import { Calendar } from '@nivo/calendar'
+import { generateDayCounts } from '@anarock/nivo-generators'
+import { Calendar } from '@anarock/nivo-calendar'
 import { useHomeTheme } from './theme'
 import { dimensions } from './dimensions'
 

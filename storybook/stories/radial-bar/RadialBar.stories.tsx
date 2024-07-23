@@ -1,13 +1,13 @@
 import type { Meta, StoryObj } from '@storybook/react'
 import { useEffect, useMemo, useState } from 'react'
-import { Theme } from '@nivo/core'
-import { categoricalColorSchemes } from '@nivo/colors'
+import { Theme } from '@anarock/nivo-core'
+import { categoricalColorSchemes } from '@anarock/nivo-colors'
 import {
     RadialBar,
     RadialBarSvgProps,
     RadialBarCustomLayerProps,
     svgDefaultProps,
-} from '@nivo/radial-bar'
+} from '@anarock/nivo-radial-bar'
 
 const meta: Meta<typeof RadialBar> = {
     title: 'RadialBar',

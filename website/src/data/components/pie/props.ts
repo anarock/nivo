@@ -1,5 +1,5 @@
-import { defaultProps } from '@nivo/pie'
-import { arcTransitionModes } from '@nivo/arcs'
+import { defaultProps } from '@anarock/nivo-pie'
+import { arcTransitionModes } from '@anarock/nivo-arcs'
 import {
     themeProperty,
     defsProperties,

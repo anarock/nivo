@@ -1,6 +1,6 @@
 import { PropsWithChildren, ComponentType } from 'react'
 import { animated } from '@react-spring/web'
-import { TextStyle as ThemeStyle } from '@nivo/core'
+import { TextStyle as ThemeStyle } from '@anarock/nivo-core'
 
 type GetComponentProps<T> = T extends ComponentType<infer P> ? P : never
 type AnimatedComponentProps = GetComponentProps<(typeof animated)['text']>

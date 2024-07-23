@@ -5,11 +5,11 @@ import {
     useTheme,
     getRelativeCursor,
     isCursorInRect,
-} from '@nivo/core'
-import { renderAxesToCanvas, renderGridLinesToCanvas } from '@nivo/axes'
-import { renderLegendToCanvas } from '@nivo/legends'
-import { useTooltip } from '@nivo/tooltip'
-import { useVoronoiMesh, renderVoronoiToCanvas, renderVoronoiCellToCanvas } from '@nivo/voronoi'
+} from '@anarock/nivo-core'
+import { renderAxesToCanvas, renderGridLinesToCanvas } from '@anarock/nivo-axes'
+import { renderLegendToCanvas } from '@anarock/nivo-legends'
+import { useTooltip } from '@anarock/nivo-tooltip'
+import { useVoronoiMesh, renderVoronoiToCanvas, renderVoronoiCellToCanvas } from '@anarock/nivo-voronoi'
 import { useLine } from './hooks'
 import PointTooltip from './PointTooltip'
 

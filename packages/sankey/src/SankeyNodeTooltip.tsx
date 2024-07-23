@@ -1,4 +1,4 @@
-import { BasicTooltip } from '@nivo/tooltip'
+import { BasicTooltip } from '@anarock/nivo-tooltip'
 import { DefaultLink, DefaultNode, SankeyNodeDatum } from './types'
 
 export interface SankeyNodeTooltipProps<N extends DefaultNode, L extends DefaultLink> {

@@ -1,8 +1,8 @@
 import { useCallback, useState } from 'react'
 import type { Meta, StoryObj } from '@storybook/react'
 import { animated } from '@react-spring/web'
-import { generateProgrammingLanguageStats } from '@nivo/generators'
-import { LegendDatum, Pie } from '@nivo/pie'
+import { generateProgrammingLanguageStats } from '@anarock/nivo-generators'
+import { LegendDatum, Pie } from '@anarock/nivo-pie'
 import { nivoTheme } from '../nivo-theme'
 
 const meta: Meta<typeof Pie> = {

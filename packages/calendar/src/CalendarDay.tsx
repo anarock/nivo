@@ -1,5 +1,5 @@
 import { CalendarDayProps } from './types'
-import { useTooltip } from '@nivo/tooltip'
+import { useTooltip } from '@anarock/nivo-tooltip'
 import { memo, useCallback } from 'react'
 import * as React from 'react'
 

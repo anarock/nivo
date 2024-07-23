@@ -5,10 +5,10 @@ import {
     Container,
     SvgWrapper,
     useDimensions,
-} from '@nivo/core'
-import { Grid, Axes } from '@nivo/axes'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
-import { BoxLegendSvg } from '@nivo/legends'
+} from '@anarock/nivo-core'
+import { Grid, Axes } from '@anarock/nivo-axes'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@anarock/nivo-colors'
+import { BoxLegendSvg } from '@anarock/nivo-legends'
 import { SvgProps, LayerId, DimensionDatum } from './types'
 import { defaultProps } from './props'
 import { useMarimekko, useLayerContext, useLegendData } from './hooks'

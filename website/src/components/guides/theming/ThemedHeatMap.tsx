@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react'
-import { CompleteTheme } from '@nivo/core'
-import { ResponsiveHeatMap } from '@nivo/heatmap'
-import { generateXYSeries } from '@nivo/generators'
+import { CompleteTheme } from '@anarock/nivo-core'
+import { ResponsiveHeatMap } from '@anarock/nivo-heatmap'
+import { generateXYSeries } from '@anarock/nivo-generators'
 
 export const ThemedHeatMap = ({ theme }: { theme: CompleteTheme }) => {
     const data = useMemo(

@@ -1,8 +1,8 @@
 import { AriaAttributes, MouseEvent, FunctionComponent } from 'react'
 import { AnimatedProps } from '@react-spring/web'
-import { Box, Theme, Dimensions, MotionProps, CssMixBlendMode } from '@nivo/core'
-import { InheritedColorConfig } from '@nivo/colors'
-import { AnnotationMatcher } from '@nivo/annotations'
+import { Box, Theme, Dimensions, MotionProps, CssMixBlendMode } from '@anarock/nivo-core'
+import { InheritedColorConfig } from '@anarock/nivo-colors'
+import { AnnotationMatcher } from '@anarock/nivo-annotations'
 
 // minimal node data
 export interface InputNode {

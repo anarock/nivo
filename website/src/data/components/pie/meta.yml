@@ -7,7 +7,7 @@ flavors:
     path: /pie/api/
 
 Pie:
-  package: '@nivo/pie'
+  package: '@anarock/nivo-pie'
   tags: 
     - radial
   stories:
@@ -29,7 +29,7 @@ Pie:
 
     The responsive alternative of this component is `ResponsivePie`.
 
-    This component is available in the `@nivo/api`, see
+    This component is available in the `@anarock/nivo-api`, see
     [sample](api:/samples/pie.svg)  or
     [try it using the API client](self:/pie/api).
     You can also see more example usages in
@@ -39,7 +39,7 @@ Pie:
     legends for this component.
 
 PieCanvas:
-  package: '@nivo/pie'
+  package: '@anarock/nivo-pie'
   tags:
     - radial
     - canvas

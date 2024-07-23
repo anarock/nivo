@@ -1,11 +1,11 @@
 import { mount } from 'enzyme'
-import { Axis } from '@nivo/axes'
+import { Axis } from '@anarock/nivo-axes'
 import Line from '../src/Line'
 import Lines from '../src/Lines'
 import { LINE_UNIQUE_ID_PREFIX } from '../src/hooks'
 import SlicesItem from '../src/SlicesItem'
 import renderer from 'react-test-renderer'
-import { DotsItem } from '@nivo/core'
+import { DotsItem } from '@anarock/nivo-core'
 
 // Handle useId mocks
 let id = 0

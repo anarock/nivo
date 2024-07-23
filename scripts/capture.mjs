@@ -53,7 +53,7 @@ const captureChart = async (baseUrl, page, { pkg, chart, flavor, theme }) => {
     const url = getChartUrl(baseUrl, chart, flavor)
 
     console.log(
-        chalk`{yellow Capturing chart {white ${chart}}} {dim (package: @nivo/${pkg}, flavor: ${flavor}, url: ${url})}`
+        chalk`{yellow Capturing chart {white ${chart}}} {dim (package: @anarock/nivo-${pkg}, flavor: ${flavor}, url: ${url})}`
     )
 
     await page.setViewport(VIEWPORT.chart)

@@ -1,4 +1,4 @@
-import { svgDefaultProps } from '@nivo/bar'
+import { svgDefaultProps } from '@anarock/nivo-bar'
 import {
     themeProperty,
     motionProperties,

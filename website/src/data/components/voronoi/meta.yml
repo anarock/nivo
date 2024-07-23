@@ -3,7 +3,7 @@ flavors:
     path: /voronoi/
 
 Voronoi:
-  package: '@nivo/voronoi'
+  package: '@anarock/nivo-voronoi'
   tags:
     - experimental
   stories: []

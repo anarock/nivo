@@ -1,7 +1,7 @@
 import { createElement, MouseEvent, useMemo } from 'react'
 import { useTransition } from '@react-spring/web'
-import { useMotionConfig } from '@nivo/core'
-import { useTooltip } from '@nivo/tooltip'
+import { useMotionConfig } from '@anarock/nivo-core'
+import { useTooltip } from '@anarock/nivo-tooltip'
 import {
     CellComponent,
     ComputedCell,

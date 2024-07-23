@@ -1,8 +1,8 @@
 import Joi from 'joi'
-import { Dimensions } from '@nivo/core'
-import { Line, LineSvgProps } from '@nivo/line'
+import { Dimensions } from '@anarock/nivo-core'
+import { Line, LineSvgProps } from '@anarock/nivo-line'
 // @ts-ignore
-import { curvePropKeys } from '@nivo/core'
+import { curvePropKeys } from '@anarock/nivo-core'
 import { custom, axes, blendMode } from './common'
 // import { scale } from './commons/scales'
 import { ordinalColors, inheritedColor } from './commons/colors'

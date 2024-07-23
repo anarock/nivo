@@ -1,4 +1,4 @@
-import { ScaleValue, TicksSpec } from '@nivo/scales'
+import { ScaleValue, TicksSpec } from '@anarock/nivo-scales'
 import { SpringValues } from '@react-spring/web'
 import * as React from 'react'
 

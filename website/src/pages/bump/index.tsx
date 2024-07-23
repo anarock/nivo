@@ -9,9 +9,9 @@ import {
     DefaultBumpDatum,
     isBumpPoint,
     isComputedBumpSerie,
-} from '@nivo/bump'
-import { MotionProps } from '@nivo/core'
-import { AxisProps } from '@nivo/axes'
+} from '@anarock/nivo-bump'
+import { MotionProps } from '@anarock/nivo-core'
+import { AxisProps } from '@anarock/nivo-axes'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'
 import meta from '../../data/components/bump/meta.yml'
 import { groups } from '../../data/components/bump/props'

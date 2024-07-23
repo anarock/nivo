@@ -1,6 +1,6 @@
 import React from 'react'
-import { ResponsiveCirclePackingHtml, defaultProps } from '@nivo/circle-packing'
-import { generateLibTree } from '@nivo/generators'
+import { ResponsiveCirclePackingHtml, defaultProps } from '@anarock/nivo-circle-packing'
+import { generateLibTree } from '@anarock/nivo-generators'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'
 import meta from '../../data/components/circle-packing/meta.yml'
 import mapper from '../../data/components/circle-packing/mapper'

@@ -1,6 +1,6 @@
 import { useMemo, useRef } from 'react'
-import { Margin } from '@nivo/core'
-import { TooltipAnchor, TooltipPosition } from '@nivo/tooltip'
+import { Margin } from '@anarock/nivo-core'
+import { TooltipAnchor, TooltipPosition } from '@anarock/nivo-tooltip'
 import { useVoronoiMesh, useMeshEvents } from './hooks'
 import { NodeMouseHandler, NodePositionAccessor, NodeTouchHandler } from './types'
 import { defaultMargin, defaultTooltipAnchor, defaultTooltipPosition } from './defaults'

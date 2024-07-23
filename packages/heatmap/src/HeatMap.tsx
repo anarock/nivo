@@ -1,7 +1,7 @@
 import { ReactNode, Fragment, createElement, useMemo } from 'react'
-import { SvgWrapper, Container, useDimensions } from '@nivo/core'
-import { Axes, Grid } from '@nivo/axes'
-import { AnchoredContinuousColorsLegendSvg } from '@nivo/legends'
+import { SvgWrapper, Container, useDimensions } from '@anarock/nivo-core'
+import { Axes, Grid } from '@anarock/nivo-axes'
+import { AnchoredContinuousColorsLegendSvg } from '@anarock/nivo-legends'
 import {
     DefaultHeatMapDatum,
     HeatMapDatum,

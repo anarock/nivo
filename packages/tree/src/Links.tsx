@@ -1,7 +1,7 @@
 import { createElement } from 'react'
 import { useTransition } from '@react-spring/web'
-import { useMotionConfig } from '@nivo/core'
-import { TooltipAnchor } from '@nivo/tooltip'
+import { useMotionConfig } from '@anarock/nivo-core'
+import { TooltipAnchor } from '@anarock/nivo-tooltip'
 import {
     ComputedLink,
     LinkComponent,

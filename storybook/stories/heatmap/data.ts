@@ -1,4 +1,4 @@
-import { generateXYSeries } from '@nivo/generators'
+import { generateXYSeries } from '@anarock/nivo-generators'
 
 export const sampleData = generateXYSeries({
     serieIds: ['Japan', 'France', 'US', 'Germany', 'Norway', 'Iceland', 'UK', 'Vietnam'],

@@ -1,6 +1,6 @@
 // @ts-ignore
-import { lineCurvePropKeys } from '@nivo/core'
-import { commonDefaultProps as defaults, svgDefaultProps } from '@nivo/parallel-coordinates'
+import { lineCurvePropKeys } from '@anarock/nivo-core'
+import { commonDefaultProps as defaults, svgDefaultProps } from '@anarock/nivo-parallel-coordinates'
 import {
     themeProperty,
     motionProperties,

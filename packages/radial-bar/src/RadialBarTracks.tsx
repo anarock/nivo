@@ -1,4 +1,4 @@
-import { ArcGenerator, ArcsLayer, ArcTransitionMode } from '@nivo/arcs'
+import { ArcGenerator, ArcsLayer, ArcTransitionMode } from '@anarock/nivo-arcs'
 import { RadialBarTrackDatum } from './types'
 
 interface RadialBarTracksProps {

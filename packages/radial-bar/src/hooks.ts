@@ -1,10 +1,10 @@
 import { useMemo } from 'react'
 import { scaleBand, scaleLinear } from 'd3-scale'
 import { arc as d3Arc } from 'd3-shape'
-import { degreesToRadians, useValueFormatter } from '@nivo/core'
-import { Arc } from '@nivo/arcs'
-import { useOrdinalColorScale } from '@nivo/colors'
-import { castLinearScale, castBandScale, getScaleTicks } from '@nivo/scales'
+import { degreesToRadians, useValueFormatter } from '@anarock/nivo-core'
+import { Arc } from '@anarock/nivo-arcs'
+import { useOrdinalColorScale } from '@anarock/nivo-colors'
+import { castLinearScale, castBandScale, getScaleTicks } from '@anarock/nivo-scales'
 import { commonDefaultProps, svgDefaultProps } from './props'
 import {
     ComputedBar,

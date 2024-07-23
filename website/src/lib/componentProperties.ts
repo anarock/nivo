@@ -1,6 +1,6 @@
 import uniq from 'lodash/uniq'
-import { defaultAnimate } from '@nivo/core'
-import { TooltipPosition, TooltipAnchor } from '@nivo/tooltip'
+import { defaultAnimate } from '@anarock/nivo-core'
+import { TooltipPosition, TooltipAnchor } from '@anarock/nivo-tooltip'
 import { Flavor, ChartProperty } from '../types'
 
 export const themeProperty = (flavors: Flavor[]): ChartProperty => ({

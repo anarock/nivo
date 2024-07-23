@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateSwarmPlotData } from '@nivo/generators'
-import { SwarmPlot } from '@nivo/swarmplot'
+import { generateSwarmPlotData } from '@anarock/nivo-generators'
+import { SwarmPlot } from '@anarock/nivo-swarmplot'
 import { SwarmPlotExtraLayers } from './SwarmPlotExtraLayers'
 import { SwarmPlotCustomCircle } from './SwarmPlotCustomCircle'
 

@@ -1,6 +1,6 @@
 import React from 'react'
-import { Bar } from '@nivo/bar'
-import { generateCountriesData } from '@nivo/generators'
+import { Bar } from '@anarock/nivo-bar'
+import { generateCountriesData } from '@anarock/nivo-generators'
 import { useHomeTheme } from './theme'
 import { dimensions } from './dimensions'
 

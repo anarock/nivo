@@ -6,7 +6,7 @@ import {
     svgDefaultProps as defaults,
     ComputedLink,
     ComputedNode,
-} from '@nivo/tree'
+} from '@anarock/nivo-tree'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'
 import meta from '../../data/components/tree/meta.yml'
 import mapper from '../../data/components/treemap/mapper'

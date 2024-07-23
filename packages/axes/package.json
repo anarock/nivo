@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/axes",
+    "name": "@anarock/nivo-axes",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -27,8 +27,8 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/core": "workspace:*",
-        "@nivo/scales": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
+        "@anarock/nivo-scales": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-format": "^1.4.1",
         "@types/d3-time-format": "^2.3.1",

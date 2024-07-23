@@ -1,4 +1,4 @@
-import { generateXYSeries, sets } from '@nivo/generators'
+import { generateXYSeries, sets } from '@anarock/nivo-generators'
 import { Data } from './types'
 
 export const getLightData = () =>

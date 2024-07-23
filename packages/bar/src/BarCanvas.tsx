@@ -15,7 +15,7 @@ import {
     useDimensions,
     useTheme,
     useValueFormatter,
-} from '@nivo/core'
+} from '@anarock/nivo-core'
 import {
     ForwardedRef,
     createElement,
@@ -30,10 +30,10 @@ import {
     renderAnnotationsToCanvas,
     useAnnotations,
     useComputedAnnotations,
-} from '@nivo/annotations'
-import { renderAxesToCanvas, renderGridLinesToCanvas } from '@nivo/axes'
-import { renderLegendToCanvas } from '@nivo/legends'
-import { useTooltip } from '@nivo/tooltip'
+} from '@anarock/nivo-annotations'
+import { renderAxesToCanvas, renderGridLinesToCanvas } from '@anarock/nivo-axes'
+import { renderLegendToCanvas } from '@anarock/nivo-legends'
+import { useTooltip } from '@anarock/nivo-tooltip'
 import { useBar } from './hooks'
 import { BarTotalsData } from './compute/totals'
 import { useComputeLabelLayout } from './compute/common'

@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
-import { generateLibTree } from '@nivo/generators'
-import { CirclePacking } from '@nivo/circle-packing'
+import { generateLibTree } from '@anarock/nivo-generators'
+import { CirclePacking } from '@anarock/nivo-circle-packing'
 import { useHomeTheme } from './theme'
 import { dimensions } from './dimensions'
 

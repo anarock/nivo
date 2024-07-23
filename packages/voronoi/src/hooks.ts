@@ -10,8 +10,8 @@ import {
 } from 'react'
 import { scaleLinear } from 'd3-scale'
 import { Delaunay } from 'd3-delaunay'
-import { getDistance, getRelativeCursor, Margin } from '@nivo/core'
-import { TooltipAnchor, TooltipPosition, useTooltip } from '@nivo/tooltip'
+import { getDistance, getRelativeCursor, Margin } from '@anarock/nivo-core'
+import { TooltipAnchor, TooltipPosition, useTooltip } from '@anarock/nivo-tooltip'
 import { computeMeshPoints, computeMesh } from './computeMesh'
 import {
     VoronoiCommonProps,

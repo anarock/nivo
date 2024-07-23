@@ -1,4 +1,4 @@
-import { ScaleBandSpec, ScaleBand, computeScale } from '@nivo/scales'
+import { ScaleBandSpec, ScaleBand, computeScale } from '@anarock/nivo-scales'
 import { defaultProps } from '../props'
 import { BarCommonProps, BarDatum } from '../types'
 

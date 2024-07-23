@@ -1,4 +1,4 @@
-import { Axes, Grid } from '@nivo/axes'
+import { Axes, Grid } from '@anarock/nivo-axes'
 import {
     CartesianMarkers,
     Container,
@@ -7,7 +7,7 @@ import {
     bindDefs,
     useDimensions,
     useMotionConfig,
-} from '@nivo/core'
+} from '@anarock/nivo-core'
 import { useTransition } from '@react-spring/web'
 import { Fragment, ReactNode, createElement, useMemo } from 'react'
 import { BarAnnotations } from './BarAnnotations'

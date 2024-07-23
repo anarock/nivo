@@ -1,4 +1,4 @@
-import { BasicTooltip } from '@nivo/tooltip'
+import { BasicTooltip } from '@anarock/nivo-tooltip'
 import { ComputedDatum } from './types'
 
 export const CirclePackingTooltip = <RawDatum,>({

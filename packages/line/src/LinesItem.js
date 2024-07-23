@@ -1,6 +1,6 @@
 import { memo, useMemo } from 'react'
 import { animated } from '@react-spring/web'
-import { useAnimatedPath } from '@nivo/core'
+import { useAnimatedPath } from '@anarock/nivo-core'
 
 const LinesItem = ({ lineGenerator, points, color, thickness }) => {
     const path = useMemo(() => lineGenerator(points), [lineGenerator, points])

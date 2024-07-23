@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@anarock/nivo-core'
 import { ResponsiveTreeSvgProps, DefaultDatum } from './types'
 import { Tree } from './Tree'
 

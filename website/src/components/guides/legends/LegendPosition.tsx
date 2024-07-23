@@ -1,7 +1,7 @@
 import React from 'react'
 import omit from 'lodash/omit'
 import { useTheme } from 'styled-components'
-import { BoxLegendSvg } from '@nivo/legends'
+import { BoxLegendSvg } from '@anarock/nivo-legends'
 
 const anchors = [
     'top-left',

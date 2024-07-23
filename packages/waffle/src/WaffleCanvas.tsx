@@ -6,11 +6,11 @@ import {
     useDimensions,
     useTheme,
     Margin,
-} from '@nivo/core'
-import { roundedRect } from '@nivo/canvas'
-import { OrdinalColorScaleConfig } from '@nivo/colors'
-import { useTooltip } from '@nivo/tooltip'
-import { renderLegendToCanvas } from '@nivo/legends'
+} from '@anarock/nivo-core'
+import { roundedRect } from '@anarock/nivo-canvas'
+import { OrdinalColorScaleConfig } from '@anarock/nivo-colors'
+import { useTooltip } from '@anarock/nivo-tooltip'
+import { renderLegendToCanvas } from '@anarock/nivo-legends'
 import { CanvasProps, Datum, isDataCell, TooltipComponent, Cell } from './types'
 import { canvasDefaultProps } from './defaults'
 import { useWaffle } from './hooks'

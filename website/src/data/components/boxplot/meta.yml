@@ -3,7 +3,7 @@ flavors:
     path: /boxplot/
 
 BoxPlot:
-  package: '@nivo/boxplot'
+  package: '@anarock/nivo-boxplot'
   tags: []
   stories: []
   #  - label: Using markers

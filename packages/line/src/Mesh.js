@@ -1,6 +1,6 @@
 import { createElement, memo, useCallback } from 'react'
-import { useTooltip } from '@nivo/tooltip'
-import { Mesh as BaseMesh } from '@nivo/voronoi'
+import { useTooltip } from '@anarock/nivo-tooltip'
+import { Mesh as BaseMesh } from '@anarock/nivo-voronoi'
 
 const Mesh = ({
     points,

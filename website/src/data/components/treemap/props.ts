@@ -1,4 +1,4 @@
-import { commonDefaultProps as defaults, tileByType } from '@nivo/treemap'
+import { commonDefaultProps as defaults, tileByType } from '@anarock/nivo-treemap'
 import {
     motionProperties,
     defsProperties,

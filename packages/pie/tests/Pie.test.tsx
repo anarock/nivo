@@ -1,14 +1,14 @@
 import { create, act } from 'react-test-renderer'
 import { Globals } from '@react-spring/web'
-import { linearGradientDef, radiansToDegrees } from '@nivo/core'
+import { linearGradientDef, radiansToDegrees } from '@anarock/nivo-core'
 import {
     ArcShape,
     ArcLabelsLayer,
     ArcLabelComponent as ArcLabel,
     ArcLinkLabelsLayer,
     ArcLinkLabelComponent as ArcLinkLabel,
-} from '@nivo/arcs'
-import { LegendSvgItem, SymbolSquare } from '@nivo/legends'
+} from '@anarock/nivo-arcs'
+import { LegendSvgItem, SymbolSquare } from '@anarock/nivo-legends'
 // @ts-ignore
 import { Pie } from '../src/index'
 

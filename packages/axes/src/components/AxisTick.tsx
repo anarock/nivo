@@ -1,8 +1,8 @@
 import { useMemo, memo } from 'react'
 import * as React from 'react'
 import { animated } from '@react-spring/web'
-import { useTheme, sanitizeSvgTextStyle } from '@nivo/core'
-import { ScaleValue } from '@nivo/scales'
+import { useTheme, sanitizeSvgTextStyle } from '@anarock/nivo-core'
+import { ScaleValue } from '@anarock/nivo-scales'
 import { AxisTickProps } from '../types'
 
 const AxisTick = <Value extends ScaleValue>({

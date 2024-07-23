@@ -1,4 +1,4 @@
-import { BarCanvas } from '@nivo/bar'
+import { BarCanvas } from '@anarock/nivo-bar'
 
 describe('<BarCanvas />', () => {
     it('should render a bar chart', () => {

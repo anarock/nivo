@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
-import { Theme } from '@nivo/core'
-import { Tree, TreeSvgProps } from '@nivo/tree'
+import { Theme } from '@anarock/nivo-core'
+import { Tree, TreeSvgProps } from '@anarock/nivo-tree'
 import treeLightNeutralImg from '../../assets/icons/tree-light-neutral.png'
 import treeLightColoredImg from '../../assets/icons/tree-light-colored.png'
 import treeDarkNeutralImg from '../../assets/icons/tree-dark-neutral.png'

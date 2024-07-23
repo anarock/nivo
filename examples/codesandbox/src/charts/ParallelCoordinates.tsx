@@ -1,8 +1,8 @@
 import {
   ResponsiveParallelCoordinates,
   ResponsiveParallelCoordinatesCanvas,
-} from '@nivo/parallel-coordinates'
-import { generateParallelCoordinatesData } from '@nivo/generators'
+} from '@anarock/nivo-parallel-coordinates'
+import { generateParallelCoordinatesData } from '@anarock/nivo-generators'
 import { useChart } from '../hooks'
 
 const props = {

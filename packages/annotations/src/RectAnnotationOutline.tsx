@@ -1,5 +1,5 @@
 import { useSpring, animated } from '@react-spring/web'
-import { useMotionConfig, useTheme } from '@nivo/core'
+import { useMotionConfig, useTheme } from '@anarock/nivo-core'
 
 export const RectAnnotationOutline = ({
     x,

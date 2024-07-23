@@ -1,5 +1,5 @@
-import { useMotionConfig, useTheme } from '@nivo/core'
-import { AnyScale, ScaleValue } from '@nivo/scales'
+import { useMotionConfig, useTheme } from '@anarock/nivo-core'
+import { AnyScale, ScaleValue } from '@anarock/nivo-scales'
 import { animated, useSpring, useTransition } from '@react-spring/web'
 import * as React from 'react'
 import { memo, useCallback, useMemo } from 'react'

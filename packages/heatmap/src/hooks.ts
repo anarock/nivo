@@ -1,7 +1,7 @@
 import { useMemo, useCallback, useState } from 'react'
-import { useTheme, usePropertyAccessor, useValueFormatter } from '@nivo/core'
-import { useInheritedColor, getContinuousColorScale } from '@nivo/colors'
-import { AnnotationMatcher, useAnnotations } from '@nivo/annotations'
+import { useTheme, usePropertyAccessor, useValueFormatter } from '@anarock/nivo-core'
+import { useInheritedColor, getContinuousColorScale } from '@anarock/nivo-colors'
+import { AnnotationMatcher, useAnnotations } from '@anarock/nivo-annotations'
 import {
     ComputedCell,
     DefaultHeatMapDatum,

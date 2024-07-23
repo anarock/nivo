@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/swarmplot",
+    "name": "@anarock/nivo-swarmplot",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -30,14 +30,14 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/annotations": "workspace:*",
-        "@nivo/axes": "workspace:*",
-        "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/scales": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
-        "@nivo/voronoi": "workspace:*",
+        "@anarock/nivo-annotations": "workspace:*",
+        "@anarock/nivo-axes": "workspace:*",
+        "@anarock/nivo-colors": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
+        "@anarock/nivo-legends": "workspace:*",
+        "@anarock/nivo-scales": "workspace:*",
+        "@anarock/nivo-tooltip": "workspace:*",
+        "@anarock/nivo-voronoi": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-force": "^2.1.0",
         "@types/d3-scale": "^4.0.8",

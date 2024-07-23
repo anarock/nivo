@@ -16,12 +16,12 @@ import {
     SvgDefsAndFill,
     ValueFormat,
     DatumValue as CoreDatumValue,
-} from '@nivo/core'
-import { OrdinalColorScaleConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
-import { ScaleSpec, Scale, TicksSpec } from '@nivo/scales'
-import { AxisProps } from '@nivo/axes'
-import { CrosshairType } from '@nivo/tooltip'
+} from '@anarock/nivo-core'
+import { OrdinalColorScaleConfig } from '@anarock/nivo-colors'
+import { LegendProps } from '@anarock/nivo-legends'
+import { ScaleSpec, Scale, TicksSpec } from '@anarock/nivo-scales'
+import { AxisProps } from '@anarock/nivo-axes'
+import { CrosshairType } from '@anarock/nivo-tooltip'
 import { Line as D3Line } from 'd3-shape'
 
 type Omit<T, K extends keyof T> = Pick<T, Exclude<keyof T, K>>

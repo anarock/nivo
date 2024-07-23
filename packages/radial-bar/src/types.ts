@@ -7,12 +7,12 @@ import {
     PropertyAccessor,
     ValueFormat,
     SvgDefsAndFill,
-} from '@nivo/core'
-import { Arc, ArcGenerator, ArcLabelsProps, ArcTransitionMode } from '@nivo/arcs'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
-import { ScaleLinear, ScaleBand } from '@nivo/scales'
-import { RadialAxisConfig, CircularAxisConfig } from '@nivo/polar-axes'
+} from '@anarock/nivo-core'
+import { Arc, ArcGenerator, ArcLabelsProps, ArcTransitionMode } from '@anarock/nivo-arcs'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@anarock/nivo-colors'
+import { LegendProps } from '@anarock/nivo-legends'
+import { ScaleLinear, ScaleBand } from '@anarock/nivo-scales'
+import { RadialAxisConfig, CircularAxisConfig } from '@anarock/nivo-polar-axes'
 
 export interface RadialBarDatum {
     x: string

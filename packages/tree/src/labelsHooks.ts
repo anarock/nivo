@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { usePropertyAccessor } from '@nivo/core'
+import { usePropertyAccessor } from '@anarock/nivo-core'
 import {
     CommonProps,
     Layout,

@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/polar-axes",
+    "name": "@anarock/nivo-polar-axes",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -28,9 +28,9 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/arcs": "workspace:*",
-        "@nivo/core": "workspace:*",
-        "@nivo/scales": "workspace:*",
+        "@anarock/nivo-arcs": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
+        "@anarock/nivo-scales": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2"
     },
     "peerDependencies": {

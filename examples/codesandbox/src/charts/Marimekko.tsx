@@ -1,4 +1,4 @@
-import { ResponsiveMarimekko } from '@nivo/marimekko'
+import { ResponsiveMarimekko } from '@anarock/nivo-marimekko'
 import { random } from '../utils'
 import { useChart } from '../hooks'
 

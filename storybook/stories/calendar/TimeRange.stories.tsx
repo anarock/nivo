@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react'
 import { useMemo } from 'react'
-import { generateOrderedDayCounts, generateDayCounts } from '@nivo/generators'
-import { TimeRange, ResponsiveTimeRange, TimeRangeSvgProps } from '@nivo/calendar'
+import { generateOrderedDayCounts, generateDayCounts } from '@anarock/nivo-generators'
+import { TimeRange, ResponsiveTimeRange, TimeRangeSvgProps } from '@anarock/nivo-calendar'
 
 type Props = TimeRangeSvgProps & {
     marginTop: number

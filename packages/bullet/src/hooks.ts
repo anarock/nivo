@@ -1,4 +1,4 @@
-import { createLinearScale } from '@nivo/scales'
+import { createLinearScale } from '@anarock/nivo-scales'
 import { useMemo } from 'react'
 import { Datum, CommonBulletProps } from './types'
 

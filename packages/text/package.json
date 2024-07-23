@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/text",
+    "name": "@anarock/nivo-text",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -22,7 +22,7 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/core": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2"
     },
     "peerDependencies": {

@@ -1,6 +1,6 @@
 import { mount } from 'enzyme'
 import { create, act, ReactTestRenderer, type ReactTestInstance } from 'react-test-renderer'
-import { LegendSvg, LegendSvgItem } from '@nivo/legends'
+import { LegendSvg, LegendSvgItem } from '@anarock/nivo-legends'
 import { Bar, BarDatum, BarItemProps, ComputedDatum, BarItem, BarTooltip, BarTotals } from '../'
 import { useComputeLabelLayout } from '../src/compute/common'
 

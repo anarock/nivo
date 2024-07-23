@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/calendar",
+    "name": "@anarock/nivo-calendar",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -29,9 +29,9 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
+        "@anarock/nivo-legends": "workspace:*",
+        "@anarock/nivo-tooltip": "workspace:*",
         "@types/d3-scale": "^4.0.8",
         "@types/d3-time": "^1.0.10",
         "@types/d3-time-format": "^3.0.0",

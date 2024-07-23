@@ -11,9 +11,9 @@ import {
     curveStepBefore,
     curveStepAfter,
 } from 'd3-shape'
-import { Margin, usePropertyAccessor, useTheme } from '@nivo/core'
-import { TooltipAnchor, TooltipPosition, useTooltip } from '@nivo/tooltip'
-import { useOrdinalColorScale, useInheritedColor } from '@nivo/colors'
+import { Margin, usePropertyAccessor, useTheme } from '@anarock/nivo-core'
+import { TooltipAnchor, TooltipPosition, useTooltip } from '@anarock/nivo-tooltip'
+import { useOrdinalColorScale, useInheritedColor } from '@anarock/nivo-colors'
 import {
     DefaultDatum,
     HierarchyTreeNode,

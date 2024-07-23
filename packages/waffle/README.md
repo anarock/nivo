@@ -1,9 +1,9 @@
 <a href="https://nivo.rocks"><img alt="nivo" src="https://raw.githubusercontent.com/plouc/nivo/master/nivo.png" width="216" height="68"/></a>
 
-# `@nivo/waffle`
+# `@anarock/nivo-waffle`
 
-[![version](https://img.shields.io/npm/v/@nivo/waffle?style=for-the-badge)](https://www.npmjs.com/package/@nivo/waffle)
-[![downloads](https://img.shields.io/npm/dm/@nivo/waffle?style=for-the-badge)](https://www.npmjs.com/package/@nivo/waffle)
+[![version](https://img.shields.io/npm/v/@anarock/nivo-waffle?style=for-the-badge)](https://www.npmjs.com/package/@anarock/nivo-waffle)
+[![downloads](https://img.shields.io/npm/dm/@anarock/nivo-waffle?style=for-the-badge)](https://www.npmjs.com/package/@anarock/nivo-waffle)
 
 ## Waffle
 

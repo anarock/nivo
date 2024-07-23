@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/tree",
+    "name": "@anarock/nivo-tree",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -30,11 +30,11 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
-        "@nivo/text": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
-        "@nivo/voronoi": "workspace:*",
+        "@anarock/nivo-colors": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
+        "@anarock/nivo-text": "workspace:*",
+        "@anarock/nivo-tooltip": "workspace:*",
+        "@anarock/nivo-voronoi": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-hierarchy": "^3.1.7",
         "@types/d3-scale": "^4.0.8",

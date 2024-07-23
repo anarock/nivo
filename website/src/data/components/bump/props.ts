@@ -1,4 +1,4 @@
-import { bumpSvgDefaultProps as defaults } from '@nivo/bump'
+import { bumpSvgDefaultProps as defaults } from '@anarock/nivo-bump'
 import { themeProperty, motionProperties, groupProperties } from '../../../lib/componentProperties'
 import {
     chartDimensions,

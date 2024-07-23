@@ -1,4 +1,4 @@
-import { BasicTooltip } from '@nivo/tooltip'
+import { BasicTooltip } from '@anarock/nivo-tooltip'
 import { AreaBumpDatum, AreaBumpComputedSerie, AreaBumpSerieExtraProps } from './types'
 
 interface AreaTooltipProps<

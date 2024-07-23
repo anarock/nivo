@@ -1,4 +1,4 @@
-import { ScaleBandSpec, ScaleBand, computeScale } from '@nivo/scales'
+import { ScaleBandSpec, ScaleBand, computeScale } from '@anarock/nivo-scales'
 
 /**
  * Generates indexed scale.

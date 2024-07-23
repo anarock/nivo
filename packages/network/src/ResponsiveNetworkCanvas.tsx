@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@anarock/nivo-core'
 import { ForwardedRef, forwardRef } from 'react'
 import { NetworkCanvasProps, InputNode, InputLink } from './types'
 import { NetworkCanvas } from './NetworkCanvas'

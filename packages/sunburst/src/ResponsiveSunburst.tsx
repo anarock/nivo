@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@anarock/nivo-core'
 import { Sunburst } from './Sunburst'
 import { SunburstSvgProps } from './types'
 

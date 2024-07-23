@@ -1,4 +1,4 @@
-import { ScaleLinearSpec } from '@nivo/scales'
+import { ScaleLinearSpec } from '@anarock/nivo-scales'
 import { SwarmPlotLayerId } from './types'
 import { SwarmPlotTooltip } from './SwarmPlotTooltip'
 

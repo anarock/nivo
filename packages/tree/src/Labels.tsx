@@ -1,6 +1,6 @@
 import { createElement } from 'react'
 import { useTransition } from '@react-spring/web'
-import { useMotionConfig } from '@nivo/core'
+import { useMotionConfig } from '@anarock/nivo-core'
 import {
     CommonProps,
     ComputedLabel,

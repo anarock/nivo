@@ -1,4 +1,4 @@
-import { commonDefaultProps as defaults, svgDefaultProps as svgDefaults } from '@nivo/tree'
+import { commonDefaultProps as defaults, svgDefaultProps as svgDefaults } from '@anarock/nivo-tree'
 import {
     motionProperties,
     groupProperties,

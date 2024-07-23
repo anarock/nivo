@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@anarock/nivo-core'
 import { ScatterPlot } from './ScatterPlot'
 import { ScatterPlotDatum, ScatterPlotSvgProps } from './types'
 

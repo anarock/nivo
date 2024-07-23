@@ -1,7 +1,7 @@
 import { useMemo, useState, useCallback, createElement, MouseEvent } from 'react'
 import { Arc } from 'd3-shape'
-import { positionFromAngle, useTheme } from '@nivo/core'
-import { useTooltip } from '@nivo/tooltip'
+import { positionFromAngle, useTheme } from '@anarock/nivo-core'
+import { useTooltip } from '@anarock/nivo-tooltip'
 import { RadarCommonProps, RadarDataProps, RadarSliceTooltipDatum, RadarSvgProps } from './types'
 
 interface RadarSliceProps<D extends Record<string, unknown>> {

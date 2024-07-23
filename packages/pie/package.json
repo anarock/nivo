@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/pie",
+    "name": "@anarock/nivo-pie",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -29,11 +29,11 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/arcs": "workspace:*",
-        "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@anarock/nivo-arcs": "workspace:*",
+        "@anarock/nivo-colors": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
+        "@anarock/nivo-legends": "workspace:*",
+        "@anarock/nivo-tooltip": "workspace:*",
         "@types/d3-shape": "^3.1.6",
         "d3-shape": "^3.2.0"
     },

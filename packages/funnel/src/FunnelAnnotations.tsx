@@ -1,4 +1,4 @@
-import { Annotation } from '@nivo/annotations'
+import { Annotation } from '@anarock/nivo-annotations'
 import { useFunnelAnnotations } from './hooks'
 import { FunnelDatum, FunnelPart } from './types'
 

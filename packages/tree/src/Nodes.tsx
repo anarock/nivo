@@ -1,7 +1,7 @@
 import { createElement } from 'react'
 import { useTransition } from '@react-spring/web'
-import { Margin, useMotionConfig } from '@nivo/core'
-import { TooltipAnchor, TooltipPosition } from '@nivo/tooltip'
+import { Margin, useMotionConfig } from '@anarock/nivo-core'
+import { TooltipAnchor, TooltipPosition } from '@anarock/nivo-tooltip'
 import {
     ComputedNode,
     CurrentNodeSetter,

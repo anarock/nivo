@@ -8,9 +8,9 @@ import {
     MotionProps,
     PropertyAccessor,
     ValueFormat,
-} from '@nivo/core'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
+} from '@anarock/nivo-core'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@anarock/nivo-colors'
+import { LegendProps } from '@anarock/nivo-legends'
 
 export interface SankeyRawNode {
     id: string

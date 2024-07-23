@@ -1,5 +1,5 @@
 // @ts-ignore
-import { motionDefaultProps } from '@nivo/core'
+import { motionDefaultProps } from '@anarock/nivo-core'
 import { FunnelLayerId } from './types'
 
 export const svgDefaultProps = {

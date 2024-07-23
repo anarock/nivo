@@ -1,4 +1,4 @@
-import { areaBumpSvgDefaultProps as defaults } from '@nivo/bump'
+import { areaBumpSvgDefaultProps as defaults } from '@anarock/nivo-bump'
 import {
     themeProperty,
     defsProperties,

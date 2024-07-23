@@ -5,8 +5,8 @@ import {
     useDimensions,
     Container,
     SvgWrapper,
-} from '@nivo/core'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
+} from '@anarock/nivo-core'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@anarock/nivo-colors'
 import { CirclePackingLayerId, CirclePackingSvgProps, ComputedDatum } from './types'
 import { useCirclePacking, useCirclePackingZoom, useCirclePackingLayerContext } from './hooks'
 import { defaultProps } from './props'

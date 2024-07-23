@@ -1,8 +1,8 @@
 import { useCallback, useMemo, useState } from 'react'
 import { area, line } from 'd3-shape'
-import { curveFromProp, useTheme, useValueFormatter } from '@nivo/core'
-import { useOrdinalColorScale, useInheritedColor } from '@nivo/colors'
-import { computeXYScalesForSeries } from '@nivo/scales'
+import { curveFromProp, useTheme, useValueFormatter } from '@anarock/nivo-core'
+import { useOrdinalColorScale, useInheritedColor } from '@anarock/nivo-colors'
+import { computeXYScalesForSeries } from '@anarock/nivo-scales'
 import uniqueId from 'lodash/uniqueId'
 import { LineDefaultProps } from './props'
 

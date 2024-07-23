@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { ContinuousColorScaleConfig } from '@nivo/colors'
-import { HeatMap, ComputedCell } from '@nivo/heatmap'
+import { ContinuousColorScaleConfig } from '@anarock/nivo-colors'
+import { HeatMap, ComputedCell } from '@anarock/nivo-heatmap'
 import { sampleData } from './data'
 import { CustomTooltip as CustomTooltipComponent } from './CustomTooltip'
 import { customInterpolator } from './customInterpolator'

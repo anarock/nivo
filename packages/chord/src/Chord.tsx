@@ -1,6 +1,6 @@
 import { createElement, Fragment, ReactNode } from 'react'
-import { Container, SvgWrapper, useDimensions } from '@nivo/core'
-import { BoxLegendSvg } from '@nivo/legends'
+import { Container, SvgWrapper, useDimensions } from '@anarock/nivo-core'
+import { BoxLegendSvg } from '@anarock/nivo-legends'
 import { svgDefaultProps } from './defaults'
 import { useChord, useChordSelection, useCustomLayerProps } from './hooks'
 import { ChordRibbons } from './ChordRibbons'

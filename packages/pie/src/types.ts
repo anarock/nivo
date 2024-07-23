@@ -7,16 +7,16 @@ import {
     MotionProps,
     ValueFormat,
     PropertyAccessor,
-} from '@nivo/core'
+} from '@anarock/nivo-core'
 import {
     Arc,
     ArcGenerator,
     ArcTransitionMode,
     ArcLabelsProps,
     ArcLinkLabelsProps,
-} from '@nivo/arcs'
-import { OrdinalColorScaleConfig, InheritedColorConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
+} from '@anarock/nivo-arcs'
+import { OrdinalColorScaleConfig, InheritedColorConfig } from '@anarock/nivo-colors'
+import { LegendProps } from '@anarock/nivo-legends'
 
 export type DatumId = string | number
 

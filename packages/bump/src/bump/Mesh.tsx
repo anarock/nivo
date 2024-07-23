@@ -1,8 +1,8 @@
 import { MouseEvent } from 'react'
 import { createElement, memo, useCallback } from 'react'
-import { Margin } from '@nivo/core'
-import { useTooltip } from '@nivo/tooltip'
-import { Mesh as BaseMesh } from '@nivo/voronoi'
+import { Margin } from '@anarock/nivo-core'
+import { useTooltip } from '@anarock/nivo-tooltip'
+import { Mesh as BaseMesh } from '@anarock/nivo-voronoi'
 import {
     BumpCommonProps,
     BumpDatum,

@@ -1,6 +1,6 @@
 import React from 'react'
 import { useTheme } from 'styled-components'
-import { BoxLegendSvg } from '@nivo/legends'
+import { BoxLegendSvg } from '@anarock/nivo-legends'
 
 const legendProps = {
     containerWidth: 800,

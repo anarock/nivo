@@ -1,8 +1,8 @@
 import { SVGProps, useMemo } from 'react'
 import { useTransition } from '@react-spring/web'
-import { useTheme, useMotionConfig } from '@nivo/core'
-import { AnyScale, getScaleTicks } from '@nivo/scales'
-import { ArcLine } from '@nivo/arcs'
+import { useTheme, useMotionConfig } from '@anarock/nivo-core'
+import { AnyScale, getScaleTicks } from '@anarock/nivo-scales'
+import { ArcLine } from '@anarock/nivo-arcs'
 
 interface CircularGridProps {
     scale: AnyScale

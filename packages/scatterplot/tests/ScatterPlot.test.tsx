@@ -1,8 +1,8 @@
 import { mount } from 'enzyme'
-import { Axis, AxisTick } from '@nivo/axes'
-import { Annotation } from '@nivo/annotations'
+import { Axis, AxisTick } from '@anarock/nivo-axes'
+import { Annotation } from '@anarock/nivo-annotations'
 // @ts-ignore
-import { CartesianMarkersItem } from '@nivo/core'
+import { CartesianMarkersItem } from '@anarock/nivo-core'
 // @ts-ignore
 import { ScatterPlot, ScatterPlotNodeData } from '../src'
 import { Tooltip } from '../src/Tooltip'

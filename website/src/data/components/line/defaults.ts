@@ -1,4 +1,4 @@
-import { LineDefaultProps } from '@nivo/line'
+import { LineDefaultProps } from '@anarock/nivo-line'
 
 export default {
     width: 600,

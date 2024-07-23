@@ -1,10 +1,10 @@
 import React from 'react'
 import { useTheme } from 'styled-components'
-import { patternDotsDef, patternLinesDef, patternSquaresDef } from '@nivo/core'
-import { ResponsiveBar } from '@nivo/bar'
-import { ResponsiveStream } from '@nivo/stream'
-import { ResponsiveTreeMap } from '@nivo/treemap'
-import { generateCountriesData } from '@nivo/generators'
+import { patternDotsDef, patternLinesDef, patternSquaresDef } from '@anarock/nivo-core'
+import { ResponsiveBar } from '@anarock/nivo-bar'
+import { ResponsiveStream } from '@anarock/nivo-stream'
+import { ResponsiveTreeMap } from '@anarock/nivo-treemap'
+import { generateCountriesData } from '@anarock/nivo-generators'
 import { FullWidthBanner } from '../../styled'
 
 export const PatternsIllustrations = () => {

@@ -1,4 +1,4 @@
-import { ResponsiveChoropleth, ResponsiveChoroplethCanvas } from '@nivo/geo'
+import { ResponsiveChoropleth, ResponsiveChoroplethCanvas } from '@anarock/nivo-geo'
 import { countries } from '../data'
 import { useChart } from '../hooks'
 

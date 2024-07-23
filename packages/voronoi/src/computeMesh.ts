@@ -1,5 +1,5 @@
 import { Delaunay } from 'd3-delaunay'
-import { Margin } from '@nivo/core'
+import { Margin } from '@anarock/nivo-core'
 import { NodePositionAccessor } from './types'
 import { defaultNodePositionAccessor, defaultMargin } from './defaults'
 

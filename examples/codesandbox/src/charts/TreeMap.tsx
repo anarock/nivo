@@ -2,8 +2,8 @@ import {
   ResponsiveTreeMap,
   ResponsiveTreeMapCanvas,
   ResponsiveTreeMapHtml,
-} from '@nivo/treemap'
-import { generateLibTree } from '@nivo/generators'
+} from '@anarock/nivo-treemap'
+import { generateLibTree } from '@anarock/nivo-generators'
 import { useChart } from '../hooks'
 
 const props = {

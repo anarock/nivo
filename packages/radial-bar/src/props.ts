@@ -1,4 +1,4 @@
-import { InheritedColorConfig } from '@nivo/colors'
+import { InheritedColorConfig } from '@anarock/nivo-colors'
 import { ComputedBar, RadialBarLayerId } from './types'
 import { RadialBarTooltip } from './RadialBarTooltip'
 

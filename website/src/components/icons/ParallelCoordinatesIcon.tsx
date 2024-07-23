@@ -1,6 +1,6 @@
 import React from 'react'
 // @ts-ignore
-import { ParallelCoordinates } from '@nivo/parallel-coordinates'
+import { ParallelCoordinates } from '@anarock/nivo-parallel-coordinates'
 import parallelCoordinatesLightNeutralImg from '../../assets/icons/parallel-coordinates-light-neutral.png'
 import parallelCoordinatesLightColoredImg from '../../assets/icons/parallel-coordinates-light-colored.png'
 import parallelCoordinatesDarkNeutralImg from '../../assets/icons/parallel-coordinates-dark-neutral.png'

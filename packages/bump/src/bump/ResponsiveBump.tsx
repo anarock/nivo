@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@anarock/nivo-core'
 import { BumpDatum, BumpResponsiveProps, BumpSerieExtraProps, DefaultBumpDatum } from './types'
 import { Bump } from './Bump'
 

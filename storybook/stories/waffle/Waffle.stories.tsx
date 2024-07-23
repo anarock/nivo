@@ -1,9 +1,9 @@
 import type { Meta, StoryObj } from '@storybook/react'
 import { useCallback, useState, Component } from 'react'
 import { symbol, symbolWye } from 'd3-shape'
-import { patternDotsDef, patternLinesDef } from '@nivo/core'
-import { generateWaffleData } from '@nivo/generators'
-import { Waffle, WaffleHtml, LegendDatum, CellComponentProps } from '@nivo/waffle'
+import { patternDotsDef, patternLinesDef } from '@anarock/nivo-core'
+import { generateWaffleData } from '@anarock/nivo-generators'
+import { Waffle, WaffleHtml, LegendDatum, CellComponentProps } from '@anarock/nivo-waffle'
 import { nivoTheme } from '../nivo-theme'
 import { CustomTooltip as CustomTooltipComponent } from './CustomTooltip'
 

@@ -1,9 +1,9 @@
 import { useMemo, useRef, useEffect } from 'react'
 import { line } from 'd3-shape'
 import { scaleLinear, scalePoint } from 'd3-scale'
-import { curveFromProp } from '@nivo/core'
-import { OrdinalColorScaleConfig, useOrdinalColorScale } from '@nivo/colors'
-import { castPointScale, castLinearScale, ScalePoint } from '@nivo/scales'
+import { curveFromProp } from '@anarock/nivo-core'
+import { OrdinalColorScaleConfig, useOrdinalColorScale } from '@anarock/nivo-colors'
+import { castPointScale, castLinearScale, ScalePoint } from '@anarock/nivo-scales'
 import {
     Variable,
     VariableWithScale,

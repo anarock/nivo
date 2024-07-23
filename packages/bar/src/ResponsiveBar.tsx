@@ -1,6 +1,6 @@
 import { Bar } from './Bar'
 import { BarDatum, BarSvgProps } from './types'
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@anarock/nivo-core'
 
 export type ResponsiveBarSvgProps<RawDatum extends BarDatum> = Omit<
     BarSvgProps<RawDatum>,

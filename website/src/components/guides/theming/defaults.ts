@@ -4,7 +4,7 @@ import {
     // @ts-ignore
     extendDefaultTheme,
     CompleteTheme,
-} from '@nivo/core'
+} from '@anarock/nivo-core'
 
 const extendedTheme: CompleteTheme = extendDefaultTheme(baseDefaultTheme)
 

@@ -1,13 +1,13 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { pie as d3Pie } from 'd3-shape'
-import { useArcGenerator, computeArcBoundingBox } from '@nivo/arcs'
+import { useArcGenerator, computeArcBoundingBox } from '@anarock/nivo-arcs'
 import {
     degreesToRadians,
     radiansToDegrees,
     useValueFormatter,
     usePropertyAccessor,
-} from '@nivo/core'
-import { OrdinalColorScaleConfig, useOrdinalColorScale } from '@nivo/colors'
+} from '@anarock/nivo-core'
+import { OrdinalColorScaleConfig, useOrdinalColorScale } from '@anarock/nivo-colors'
 import { defaultProps } from './props'
 import {
     MayHaveLabel,

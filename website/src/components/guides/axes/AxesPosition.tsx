@@ -3,8 +3,8 @@ import {
     ThemeProvider,
     // @ts-ignore
     MotionConfigProvider,
-} from '@nivo/core'
-import { Axes } from '@nivo/axes'
+} from '@anarock/nivo-core'
+import { Axes } from '@anarock/nivo-axes'
 import { linearXScale, linearYScale } from './scales'
 import { FullWidthBanner, DescriptionBlock } from '../../styled'
 import { useAxisTheme } from './theme'

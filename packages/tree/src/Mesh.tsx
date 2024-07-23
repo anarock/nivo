@@ -1,8 +1,8 @@
 import { useMemo } from 'react'
 import { createElement, memo } from 'react'
-import { Margin } from '@nivo/core'
-import { TooltipAnchor, TooltipPosition } from '@nivo/tooltip'
-import { Mesh as BaseMesh } from '@nivo/voronoi'
+import { Margin } from '@anarock/nivo-core'
+import { TooltipAnchor, TooltipPosition } from '@anarock/nivo-tooltip'
+import { Mesh as BaseMesh } from '@anarock/nivo-voronoi'
 import { ComputedNode, CurrentNodeSetter, NodeMouseEventHandler, NodeTooltip } from './types'
 
 interface MeshProps<Datum> {

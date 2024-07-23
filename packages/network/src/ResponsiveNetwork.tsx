@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@anarock/nivo-core'
 import { InputLink, InputNode, NetworkSvgProps } from './types'
 import { Network } from './Network'
 

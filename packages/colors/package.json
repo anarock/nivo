@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/colors",
+    "name": "@anarock/nivo-colors",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -21,7 +21,7 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/core": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
         "@types/d3-color": "^3.0.0",
         "@types/d3-scale": "^4.0.8",
         "@types/d3-scale-chromatic": "^3.0.0",

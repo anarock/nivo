@@ -1,5 +1,5 @@
 import { animated, to } from '@react-spring/web'
-import { useTheme } from '@nivo/core'
+import { useTheme } from '@anarock/nivo-core'
 import { LabelComponentProps } from './types'
 
 export const Label = <Datum,>({ label, animatedProps }: LabelComponentProps<Datum>) => {

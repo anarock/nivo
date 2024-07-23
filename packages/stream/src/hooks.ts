@@ -9,8 +9,8 @@ import {
     stackOrderFromProp,
     // @ts-ignore
     stackOffsetFromProp,
-} from '@nivo/core'
-import { useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
+} from '@anarock/nivo-core'
+import { useInheritedColor, useOrdinalColorScale } from '@anarock/nivo-colors'
 import {
     StreamCommonProps,
     StreamCustomLayerProps,
@@ -21,7 +21,7 @@ import {
     StreamSliceData,
 } from './types'
 import { defaultProps } from './props'
-import { createLinearScale, createPointScale } from '@nivo/scales'
+import { createLinearScale, createPointScale } from '@anarock/nivo-scales'
 
 export const useStream = <RawDatum extends StreamDatum>({
     width,

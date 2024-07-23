@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 import PropTypes from 'prop-types'
-import { TooltipProvider, Tooltip } from '@nivo/tooltip'
+import { TooltipProvider, Tooltip } from '@anarock/nivo-tooltip'
 import { ThemeProvider } from '../theming'
 import { MotionConfigProvider, motionPropTypes } from '../motion'
 import { ConditionalWrapper } from './ConditionalWrapper'

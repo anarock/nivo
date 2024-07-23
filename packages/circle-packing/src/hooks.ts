@@ -8,8 +8,8 @@ import {
     useTheme,
     getRelativeCursor,
     getDistance,
-} from '@nivo/core'
-import { useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
+} from '@anarock/nivo-core'
+import { useInheritedColor, useOrdinalColorScale } from '@anarock/nivo-colors'
 import {
     CirclePackingCommonProps,
     CirclePackingCustomLayerProps,

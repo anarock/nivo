@@ -1,5 +1,5 @@
 import { MouseEvent, TouchEvent, FunctionComponent } from 'react'
-import { Theme, Box } from '@nivo/core'
+import { Theme, Box } from '@anarock/nivo-core'
 import { Delaunay, Voronoi } from 'd3-delaunay'
 
 export type NodeMouseHandler<Node> = (node: Node, Node: MouseEvent) => void

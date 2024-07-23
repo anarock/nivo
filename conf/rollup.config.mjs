@@ -35,7 +35,7 @@ const common = {
     external: id => externals.includes(id)
         || id.indexOf('react') === 0
         || id.indexOf('d3') === 0
-        || id.indexOf('@nivo') === 0
+        || id.indexOf('@anarock') === 0
         || id.indexOf('lodash') === 0
         || id.indexOf('@react-spring') === 0,
 }
@@ -63,7 +63,7 @@ const configs = [
         output: {
             file: `./packages/${pkg}/dist/nivo-${pkg}.es.js`,
             format: 'es',
-            name: `@nivo/${pkg}`,
+            name: `@anarock/nivo-${pkg}`,
             sourcemap: true,
         },
         plugins: [
@@ -85,7 +85,7 @@ if (!isWatching) {
         output: {
             file: `./packages/${pkg}/dist/nivo-${pkg}.cjs.js`,
             format: 'cjs',
-            name: `@nivo/${pkg}`,
+            name: `@anarock/nivo-${pkg}`,
             sourcemap: true,
         },
         plugins: commonPlugins,

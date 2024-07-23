@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/bullet",
+    "name": "@anarock/nivo-bullet",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -29,12 +29,12 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/axes": "workspace:*",
-        "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/scales": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@anarock/nivo-axes": "workspace:*",
+        "@anarock/nivo-colors": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
+        "@anarock/nivo-legends": "workspace:*",
+        "@anarock/nivo-scales": "workspace:*",
+        "@anarock/nivo-tooltip": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2"
     },
     "peerDependencies": {

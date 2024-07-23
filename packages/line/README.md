@@ -1,9 +1,9 @@
 <a href="https://nivo.rocks"><img alt="nivo" src="https://raw.githubusercontent.com/plouc/nivo/master/nivo.png" width="216" height="68"/></a>
 
-# `@nivo/line`
+# `@anarock/nivo-line`
 
-[![version](https://img.shields.io/npm/v/@nivo/line?style=for-the-badge)](https://www.npmjs.com/package/@nivo/line)
-[![downloads](https://img.shields.io/npm/dm/@nivo/line?style=for-the-badge)](https://www.npmjs.com/package/@nivo/line)
+[![version](https://img.shields.io/npm/v/@anarock/nivo-line?style=for-the-badge)](https://www.npmjs.com/package/@anarock/nivo-line)
+[![downloads](https://img.shields.io/npm/dm/@anarock/nivo-line?style=for-the-badge)](https://www.npmjs.com/package/@anarock/nivo-line)
 
 ## Line
 

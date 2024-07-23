@@ -1,8 +1,8 @@
 import {
   ResponsiveHeatMap,
   ResponsiveHeatMapCanvas,
-} from '@nivo/heatmap'
-import { generateXYSeries } from '@nivo/generators'
+} from '@anarock/nivo-heatmap'
+import { generateXYSeries } from '@anarock/nivo-generators'
 import { useChart } from '../hooks'
 
 const props = {

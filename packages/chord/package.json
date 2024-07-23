@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/chord",
+    "name": "@anarock/nivo-chord",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -29,11 +29,11 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/arcs": "workspace:*",
-        "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@anarock/nivo-arcs": "workspace:*",
+        "@anarock/nivo-colors": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
+        "@anarock/nivo-legends": "workspace:*",
+        "@anarock/nivo-tooltip": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-chord": "^3.0.1",
         "@types/d3-shape": "^3.1.6",

@@ -1,5 +1,5 @@
 import { mount } from 'enzyme'
-import { LegendProps, BoxLegendSvg } from '@nivo/legends'
+import { LegendProps, BoxLegendSvg } from '@anarock/nivo-legends'
 // @ts-ignore
 import { Radar, RadarSvgProps, RadarSliceTooltipProps } from '../src'
 import { act, create } from 'react-test-renderer'

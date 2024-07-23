@@ -1,8 +1,8 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateBulletData } from '@nivo/generators'
-import { BasicTooltip } from '@nivo/tooltip'
+import { generateBulletData } from '@anarock/nivo-generators'
+import { BasicTooltip } from '@anarock/nivo-tooltip'
 // import { withKnobs, boolean, number } from '@storybook/addon-knobs'
-import { Bullet, BulletMarkersItemProps, BulletRectsItemProps } from '@nivo/bullet'
+import { Bullet, BulletMarkersItemProps, BulletRectsItemProps } from '@anarock/nivo-bullet'
 
 const meta: Meta<typeof Bullet> = {
     title: 'Bullet',

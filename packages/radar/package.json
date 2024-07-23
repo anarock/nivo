@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/radar",
+    "name": "@anarock/nivo-radar",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -29,10 +29,10 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
+        "@anarock/nivo-colors": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
+        "@anarock/nivo-legends": "workspace:*",
+        "@anarock/nivo-tooltip": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "@types/d3-scale": "^4.0.8",
         "@types/d3-shape": "^3.1.6",

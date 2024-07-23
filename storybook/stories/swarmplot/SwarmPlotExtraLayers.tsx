@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
-import { generateSwarmPlotData } from '@nivo/generators'
-import { PatternLines } from '@nivo/core'
-import { SwarmPlot, SwarmPlotCustomLayerProps } from '@nivo/swarmplot'
+import { generateSwarmPlotData } from '@anarock/nivo-generators'
+import { PatternLines } from '@anarock/nivo-core'
+import { SwarmPlot, SwarmPlotCustomLayerProps } from '@anarock/nivo-swarmplot'
 
 const BackgroundLayer = ({ xScale, innerHeight }: SwarmPlotCustomLayerProps<unknown>) => (
     <>

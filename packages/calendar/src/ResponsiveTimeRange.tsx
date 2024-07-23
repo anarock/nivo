@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@anarock/nivo-core'
 import { TimeRange } from './TimeRange'
 import { TimeRangeSvgProps } from './types'
 

@@ -1,5 +1,5 @@
-import { defaultProps } from '@nivo/swarmplot'
-import { OrdinalColorScaleConfig } from '@nivo/colors'
+import { defaultProps } from '@anarock/nivo-swarmplot'
+import { OrdinalColorScaleConfig } from '@anarock/nivo-colors'
 import { themeProperty, motionProperties, groupProperties } from '../../../lib/componentProperties'
 import {
     chartDimensions,

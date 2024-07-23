@@ -1,6 +1,6 @@
 import React from 'react'
 // @ts-ignore
-import { blendModes, CssMixBlendMode } from '@nivo/core'
+import { blendModes, CssMixBlendMode } from '@anarock/nivo-core'
 import { ChartProperty, Flavor } from '../../../types'
 import { BlendModeControlConfig, ControlContext } from '../types'
 import { ChoicesControl } from '../generics'

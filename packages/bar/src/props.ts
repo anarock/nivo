@@ -1,8 +1,8 @@
 import { BarItem } from './BarItem'
 import { BarTooltip } from './BarTooltip'
 import { BarCanvasLayerId, BarLayerId, ComputedDatum } from './types'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
-import { ScaleBandSpec, ScaleSpec } from '@nivo/scales'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@anarock/nivo-colors'
+import { ScaleBandSpec, ScaleSpec } from '@anarock/nivo-scales'
 
 export const defaultProps = {
     indexBy: 'id',

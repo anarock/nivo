@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/line",
+    "name": "@anarock/nivo-line",
     "version": "0.88.0",
     "license": "MIT",
     "author": {
@@ -29,14 +29,14 @@
         "dist/"
     ],
     "dependencies": {
-        "@nivo/annotations": "workspace:*",
-        "@nivo/axes": "workspace:*",
-        "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
-        "@nivo/legends": "workspace:*",
-        "@nivo/scales": "workspace:*",
-        "@nivo/tooltip": "workspace:*",
-        "@nivo/voronoi": "workspace:*",
+        "@anarock/nivo-annotations": "workspace:*",
+        "@anarock/nivo-axes": "workspace:*",
+        "@anarock/nivo-colors": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
+        "@anarock/nivo-legends": "workspace:*",
+        "@anarock/nivo-scales": "workspace:*",
+        "@anarock/nivo-tooltip": "workspace:*",
+        "@anarock/nivo-voronoi": "workspace:*",
         "@react-spring/web": "9.4.5 || ^9.7.2",
         "d3-shape": "^3.2.0"
     },

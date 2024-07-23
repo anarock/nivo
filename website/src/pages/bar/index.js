@@ -1,6 +1,6 @@
 import React from 'react'
-import { patternDotsDef, patternLinesDef } from '@nivo/core'
-import { ResponsiveBar, svgDefaultProps } from '@nivo/bar'
+import { patternDotsDef, patternLinesDef } from '@anarock/nivo-core'
+import { ResponsiveBar, svgDefaultProps } from '@anarock/nivo-bar'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'
 import meta from '../../data/components/bar/meta.yml'
 import { generateLightDataSet } from '../../data/components/bar/generator'

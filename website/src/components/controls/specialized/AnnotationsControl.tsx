@@ -1,6 +1,6 @@
 import React, { memo, useCallback, useMemo } from 'react'
 import omit from 'lodash/omit'
-import { AnnotationMatcher } from '@nivo/annotations'
+import { AnnotationMatcher } from '@anarock/nivo-annotations'
 import { ChartProperty, Flavor } from '../../../types'
 import { AnnotationsControlConfig, ArrayControlConfig, ControlContext } from '../types'
 import { ArrayControl } from '../generics'

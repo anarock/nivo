@@ -1,7 +1,7 @@
 import { useCallback, useState } from 'react'
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateProgrammingLanguageStats } from '@nivo/generators'
-import { LegendDatum, PieCanvas } from '@nivo/pie'
+import { generateProgrammingLanguageStats } from '@anarock/nivo-generators'
+import { LegendDatum, PieCanvas } from '@anarock/nivo-pie'
 import { nivoTheme } from '../nivo-theme'
 
 const meta: Meta<typeof PieCanvas> = {

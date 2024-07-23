@@ -6,11 +6,11 @@ import {
     useTheme,
     SvgWrapper,
     CartesianMarkers,
-} from '@nivo/core'
-import { useInheritedColor } from '@nivo/colors'
-import { Axes, Grid } from '@nivo/axes'
-import { BoxLegendSvg } from '@nivo/legends'
-import { Crosshair } from '@nivo/tooltip'
+} from '@anarock/nivo-core'
+import { useInheritedColor } from '@anarock/nivo-colors'
+import { Axes, Grid } from '@anarock/nivo-axes'
+import { BoxLegendSvg } from '@anarock/nivo-legends'
+import { Crosshair } from '@anarock/nivo-tooltip'
 import { useLine } from './hooks'
 import Areas from './Areas'
 import Lines from './Lines'

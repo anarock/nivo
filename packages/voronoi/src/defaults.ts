@@ -1,5 +1,5 @@
-import { Margin, defaultMargin as coreDefaultMargin } from '@nivo/core'
-import { TooltipAnchor, TooltipPosition } from '@nivo/tooltip'
+import { Margin, defaultMargin as coreDefaultMargin } from '@anarock/nivo-core'
+import { TooltipAnchor, TooltipPosition } from '@anarock/nivo-tooltip'
 
 export const defaultNodePositionAccessor = (node: {
     x: number

@@ -1,5 +1,5 @@
 {
-    "name": "@nivo/legends",
+    "name": "@anarock/nivo-legends",
     "description": "legend components for nivo dataviz library",
     "version": "0.88.0",
     "license": "MIT",
@@ -22,8 +22,8 @@
         "!dist/tsconfig.tsbuildinfo"
     ],
     "dependencies": {
-        "@nivo/colors": "workspace:*",
-        "@nivo/core": "workspace:*",
+        "@anarock/nivo-colors": "workspace:*",
+        "@anarock/nivo-core": "workspace:*",
         "@types/d3-scale": "^4.0.8",
         "d3-scale": "^4.0.2"
     },

@@ -6,11 +6,11 @@ import {
     clampArc,
     // @ts-ignore
     bindDefs,
-} from '@nivo/core'
+} from '@anarock/nivo-core'
 
-import { ArcLabelsLayer } from '@nivo/arcs'
-import { BoxLegendSvg } from '@nivo/legends'
-import { PolarGrid, RadialAxis, CircularAxis } from '@nivo/polar-axes'
+import { ArcLabelsLayer } from '@anarock/nivo-arcs'
+import { BoxLegendSvg } from '@anarock/nivo-legends'
+import { PolarGrid, RadialAxis, CircularAxis } from '@anarock/nivo-polar-axes'
 import { RadialBarLayerId, RadialBarSvgProps, ComputedBar, RadialBarDatum } from './types'
 import { svgDefaultProps } from './props'
 import { useRadialBar } from './hooks'

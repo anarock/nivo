@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
-import { Container, SvgWrapper, useValueFormatter, useTheme, useDimensions } from '@nivo/core'
-import { BoxLegendSvg } from '@nivo/legends'
+import { Container, SvgWrapper, useValueFormatter, useTheme, useDimensions } from '@anarock/nivo-core'
+import { BoxLegendSvg } from '@anarock/nivo-legends'
 import {
     computeWeekdays,
     computeCellSize,

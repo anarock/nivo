@@ -1,4 +1,4 @@
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@anarock/nivo-core'
 import { WaffleSvgProps, Datum } from './types'
 import { Waffle } from './Waffle'
 

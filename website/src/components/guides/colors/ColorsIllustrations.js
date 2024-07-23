@@ -1,9 +1,9 @@
 import React from 'react'
 import { useTheme } from 'styled-components'
-import { ResponsiveBar } from '@nivo/bar'
-import { ResponsiveStream } from '@nivo/stream'
-import { ResponsiveTreeMap } from '@nivo/treemap'
-import { generateCountriesData } from '@nivo/generators'
+import { ResponsiveBar } from '@anarock/nivo-bar'
+import { ResponsiveStream } from '@anarock/nivo-stream'
+import { ResponsiveTreeMap } from '@anarock/nivo-treemap'
+import { generateCountriesData } from '@anarock/nivo-generators'
 import { FullWidthBanner } from '../../styled'
 
 const ColorsIllustrations = () => {

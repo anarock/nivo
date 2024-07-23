@@ -7,7 +7,7 @@ flavors:
     path: /bar/api/
 
 Bar:
-  package: '@nivo/bar'
+  package: '@anarock/nivo-bar'
   tags: []
   stories:
     - label: Using markers
@@ -46,7 +46,7 @@ Bar:
     will receive current bar style, data and event handlers,
     the storybook offers an [example](storybook:bar--custom-bar-item).
     The responsive alternative of this component is `ResponsiveBar`.
-    This component is available in the `@nivo/api`,
+    This component is available in the `@anarock/nivo-api`,
     see [sample](api:/samples/bar.svg)
     or [try it using the API client](self:/bar/api).
     See the [dedicated guide](self:/guides/legends) on how to setup
@@ -57,7 +57,7 @@ Bar:
     `indexes` is suitable for simple bar chart with a single data serie
     while `keys` may be used if you have several ones (groups).
 BarCanvas:
-  package: '@nivo/bar'
+  package: '@anarock/nivo-bar'
   tags:
     - canvas
   stories:

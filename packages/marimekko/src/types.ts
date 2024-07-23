@@ -6,11 +6,11 @@ import {
     stackOffsetSilhouette,
     stackOffsetWiggle,
 } from 'd3-shape'
-import { ScaleLinear } from '@nivo/scales'
-import { Box, Dimensions, Theme, SvgDefsAndFill, MotionProps, ValueFormat } from '@nivo/core'
-import { AxisProps } from '@nivo/axes'
-import { OrdinalColorScaleConfig, InheritedColorConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
+import { ScaleLinear } from '@anarock/nivo-scales'
+import { Box, Dimensions, Theme, SvgDefsAndFill, MotionProps, ValueFormat } from '@anarock/nivo-core'
+import { AxisProps } from '@anarock/nivo-axes'
+import { OrdinalColorScaleConfig, InheritedColorConfig } from '@anarock/nivo-colors'
+import { LegendProps } from '@anarock/nivo-legends'
 
 export type DatumId = string | number
 export type DatumValue = number

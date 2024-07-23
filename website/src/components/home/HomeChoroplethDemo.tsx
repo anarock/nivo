@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react'
-import { Choropleth } from '@nivo/geo'
+import { Choropleth } from '@anarock/nivo-geo'
 import { useHomeTheme } from './theme'
 import { dimensions } from './dimensions'
 import { generateChoroplethData } from '../../data/components/geo/generator'

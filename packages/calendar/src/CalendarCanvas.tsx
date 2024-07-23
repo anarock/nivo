@@ -9,11 +9,11 @@ import {
     useDimensions,
     useTheme,
     useValueFormatter,
-} from '@nivo/core'
-import { renderLegendToCanvas } from '@nivo/legends'
+} from '@anarock/nivo-core'
+import { renderLegendToCanvas } from '@anarock/nivo-legends'
 import { calendarCanvasDefaultProps } from './props'
 import { useCalendarLayout, useColorScale, useMonthLegends, useYearLegends, useDays } from './hooks'
-import { useTooltip } from '@nivo/tooltip'
+import { useTooltip } from '@anarock/nivo-tooltip'
 import { CalendarCanvasProps } from './types'
 
 const findDayUnderCursor = (

@@ -1,6 +1,6 @@
 <a href="https://nivo.rocks"><img alt="nivo" src="https://raw.githubusercontent.com/plouc/nivo/master/nivo.png" width="216" height="68"/></a>
 
-# `@nivo/canvas`
+# `@anarock/nivo-canvas`
 
-[![version](https://img.shields.io/npm/v/@nivo/canvas?style=for-the-badge)](https://www.npmjs.com/package/@nivo/canvas)
-[![downloads](https://img.shields.io/npm/dm/@nivo/canvas?style=for-the-badge)](https://www.npmjs.com/package/@nivo/canvas)
+[![version](https://img.shields.io/npm/v/@anarock/nivo-canvas?style=for-the-badge)](https://www.npmjs.com/package/@anarock/nivo-canvas)
+[![downloads](https://img.shields.io/npm/dm/@anarock/nivo-canvas?style=for-the-badge)](https://www.npmjs.com/package/@anarock/nivo-canvas)

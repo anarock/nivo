@@ -1,6 +1,6 @@
 import { memo } from 'react'
-import { useTheme } from '@nivo/core'
-import { Chip, TableTooltip } from '@nivo/tooltip'
+import { useTheme } from '@anarock/nivo-core'
+import { Chip, TableTooltip } from '@anarock/nivo-tooltip'
 
 const SliceTooltip = ({ slice, axis }) => {
     const theme = useTheme()

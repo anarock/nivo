@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
-import { generateProgrammingLanguageStats } from '@nivo/generators'
-import { Pie } from '@nivo/pie'
+import { generateProgrammingLanguageStats } from '@anarock/nivo-generators'
+import { Pie } from '@anarock/nivo-pie'
 import { useHomeTheme } from './theme'
 import { dimensions } from './dimensions'
 

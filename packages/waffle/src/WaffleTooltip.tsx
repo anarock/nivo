@@ -1,4 +1,4 @@
-import { BasicTooltip } from '@nivo/tooltip'
+import { BasicTooltip } from '@anarock/nivo-tooltip'
 import { Datum, TooltipProps } from './types'
 
 export const WaffleTooltip = <RawDatum extends Datum>({ data }: TooltipProps<RawDatum>) => (

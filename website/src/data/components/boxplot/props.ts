@@ -1,4 +1,4 @@
-import { svgDefaultProps } from '@nivo/boxplot'
+import { svgDefaultProps } from '@anarock/nivo-boxplot'
 import {
     themeProperty,
     motionProperties,

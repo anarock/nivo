@@ -1,4 +1,4 @@
-import { useTheme } from '@nivo/core'
+import { useTheme } from '@anarock/nivo-core'
 import { AnimationConfig, animated, useTransition } from '@react-spring/web'
 import { BarCommonProps, BarDatum } from './types'
 import { svgDefaultProps } from './props'

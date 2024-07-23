@@ -1,6 +1,6 @@
 import React from 'react'
-import { generateDrinkStats } from '@nivo/generators'
-import { Line } from '@nivo/line'
+import { generateDrinkStats } from '@anarock/nivo-generators'
+import { Line } from '@anarock/nivo-line'
 import { useHomeTheme } from './theme'
 import { dimensions } from './dimensions'
 

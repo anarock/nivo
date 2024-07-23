@@ -7,10 +7,10 @@ import {
     useValueFormatter,
     // @ts-ignore
     bindDefs,
-} from '@nivo/core'
-import { useTooltip } from '@nivo/tooltip'
-import { OrdinalColorScaleConfig, useInheritedColor, useOrdinalColorScale } from '@nivo/colors'
-import { generateGrid, GridCell, GridFillDirection, Vertex, getCellsPolygons } from '@nivo/grid'
+} from '@anarock/nivo-core'
+import { useTooltip } from '@anarock/nivo-tooltip'
+import { OrdinalColorScaleConfig, useInheritedColor, useOrdinalColorScale } from '@anarock/nivo-colors'
+import { generateGrid, GridCell, GridFillDirection, Vertex, getCellsPolygons } from '@anarock/nivo-grid'
 import {
     CommonProps,
     ComputedDatum,

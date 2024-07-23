@@ -1,4 +1,4 @@
-import { BasicTooltip } from '@nivo/tooltip'
+import { BasicTooltip } from '@anarock/nivo-tooltip'
 import { ScatterPlotTooltipProps, ScatterPlotDatum } from './types'
 
 export const Tooltip = <RawDatum extends ScatterPlotDatum>({

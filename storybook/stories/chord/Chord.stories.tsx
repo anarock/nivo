@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateChordData } from '@nivo/generators'
-import { TableTooltip, BasicTooltip, Chip } from '@nivo/tooltip'
-import { Chord, ArcDatum, ArcTooltipComponentProps, RibbonTooltipComponentProps } from '@nivo/chord'
+import { generateChordData } from '@anarock/nivo-generators'
+import { TableTooltip, BasicTooltip, Chip } from '@anarock/nivo-tooltip'
+import { Chord, ArcDatum, ArcTooltipComponentProps, RibbonTooltipComponentProps } from '@anarock/nivo-chord'
 
 const meta: Meta<typeof Chord> = {
     title: 'Chord',

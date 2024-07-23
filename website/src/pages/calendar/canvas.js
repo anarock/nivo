@@ -1,6 +1,6 @@
 import React from 'react'
-import { ResponsiveCalendarCanvas, calendarCanvasDefaultProps } from '@nivo/calendar'
-import { generateDayCounts } from '@nivo/generators'
+import { ResponsiveCalendarCanvas, calendarCanvasDefaultProps } from '@anarock/nivo-calendar'
+import { generateDayCounts } from '@anarock/nivo-generators'
 import { ComponentTemplate } from '../../components/components/ComponentTemplate'
 import meta from '../../data/components/calendar/meta.yml'
 import mapper from '../../data/components/calendar/mapper'

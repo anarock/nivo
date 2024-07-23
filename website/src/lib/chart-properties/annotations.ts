@@ -1,4 +1,4 @@
-import { AnnotationMatcher } from '@nivo/annotations'
+import { AnnotationMatcher } from '@anarock/nivo-annotations'
 import { ChartProperty, Flavor } from '../../types'
 
 export const annotations = ({

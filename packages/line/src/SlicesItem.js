@@ -1,5 +1,5 @@
 import { createElement, memo, useCallback } from 'react'
-import { useTooltip } from '@nivo/tooltip'
+import { useTooltip } from '@anarock/nivo-tooltip'
 
 const SlicesItem = ({
     slice,

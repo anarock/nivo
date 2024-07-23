@@ -10,11 +10,11 @@ import {
     AreaCurve,
     SvgDefsAndFill,
     ValueFormat,
-} from '@nivo/core'
-import { AxisProps, GridValues } from '@nivo/axes'
-import { InheritedColorConfig, OrdinalColorScaleConfig } from '@nivo/colors'
-import { LegendProps } from '@nivo/legends'
-import { ScaleLinear, ScalePoint } from '@nivo/scales'
+} from '@anarock/nivo-core'
+import { AxisProps, GridValues } from '@anarock/nivo-axes'
+import { InheritedColorConfig, OrdinalColorScaleConfig } from '@anarock/nivo-colors'
+import { LegendProps } from '@anarock/nivo-legends'
+import { ScaleLinear, ScalePoint } from '@anarock/nivo-scales'
 
 export type StreamLayerId = 'grid' | 'axes' | 'layers' | 'dots' | 'slices' | 'legends'
 

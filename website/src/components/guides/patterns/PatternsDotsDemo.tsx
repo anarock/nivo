@@ -1,5 +1,5 @@
 import React from 'react'
-import { Defs, patternDotsDef, PatternDotsDefaultProps } from '@nivo/core'
+import { Defs, patternDotsDef, PatternDotsDefaultProps } from '@anarock/nivo-core'
 import { ChartProperty } from '../../../types'
 import { GuideDemoBlock } from '../GuideDemoBlock'
 
@@ -74,7 +74,7 @@ const controls: ChartProperty[] = [
 const generateCode = (settings: Settings) =>
     `
 // helper
-import { patternDotsDef } from '@nivo/core'
+import { patternDotsDef } from '@anarock/nivo-core'
 patternDotsDef('${patternId}', ${JSON.stringify(settings, null, '  ')})
 // plain object
 ${JSON.stringify(patternDotsDef(patternId, settings), null, '    ')}

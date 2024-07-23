@@ -1,4 +1,4 @@
-import { Tree, TreeSvgProps } from '@nivo/tree'
+import { Tree, TreeSvgProps } from '@anarock/nivo-tree'
 import { before } from 'lodash'
 
 interface Datum {

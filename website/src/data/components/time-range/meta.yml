@@ -3,7 +3,7 @@ flavors:
     path: /time-range/
 
 TimeRange:
-  package: '@nivo/calendar'
+  package: '@anarock/nivo-calendar'
   tags: []
   stories: []
   description: |

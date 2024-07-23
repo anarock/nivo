@@ -1,4 +1,4 @@
-import { HeatMapDataProps, HeatMapSvgProps, HeatMapCanvasProps } from '@nivo/heatmap'
+import { HeatMapDataProps, HeatMapSvgProps, HeatMapCanvasProps } from '@anarock/nivo-heatmap'
 import { AxisWithToggle } from '../../../lib/settings'
 
 export type Datum = {

@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateLibTree } from '@nivo/generators'
-import { useTheme } from '@nivo/core'
+import { generateLibTree } from '@anarock/nivo-generators'
+import { useTheme } from '@anarock/nivo-core'
 import {
     Tree,
     useNodeMouseEventHandlers,
@@ -11,7 +11,7 @@ import {
     Layout,
     LabelsPosition,
     TreeMode,
-} from '@nivo/tree'
+} from '@anarock/nivo-tree'
 
 const meta: Meta<typeof Tree> = {
     title: 'Tree',

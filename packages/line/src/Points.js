@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { getLabelGenerator, DotsItem, useTheme } from '@nivo/core'
+import { getLabelGenerator, DotsItem, useTheme } from '@anarock/nivo-core'
 
 const Points = ({ points, symbol, size, borderWidth, enableLabel, label, labelYOffset }) => {
     const theme = useTheme()

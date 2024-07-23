@@ -4,7 +4,7 @@ import bodyParser from 'body-parser'
 import compression from 'compression'
 import winston from 'winston'
 import expressWinston from 'express-winston'
-import { nivo } from '@nivo/express'
+import { nivo } from '@anarock/nivo-express'
 
 const app = express()
 

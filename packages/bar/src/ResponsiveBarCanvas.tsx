@@ -1,7 +1,7 @@
 import { BarDatum, BarCanvasProps } from './types'
 import { BarCanvas } from './BarCanvas'
 import { ForwardedRef, forwardRef } from 'react'
-import { ResponsiveWrapper } from '@nivo/core'
+import { ResponsiveWrapper } from '@anarock/nivo-core'
 
 export type ResponsiveBarCanvasProps<RawDatum extends BarDatum> = Omit<
     BarCanvasProps<RawDatum>,

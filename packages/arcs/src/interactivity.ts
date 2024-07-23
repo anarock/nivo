@@ -1,4 +1,4 @@
-import { getDistance, getAngle } from '@nivo/core'
+import { getDistance, getAngle } from '@anarock/nivo-core'
 import { Arc } from './types'
 
 /**

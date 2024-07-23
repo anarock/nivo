@@ -7,7 +7,7 @@ import {
     ScaleLogSpec,
     ScaleSymlogSpec,
     ScaleTimeSpec,
-} from '@nivo/scales'
+} from '@anarock/nivo-scales'
 import { BoxPlotSummary, ComputedBoxPlotSummary } from '../types'
 import { getIndexScale } from './common'
 

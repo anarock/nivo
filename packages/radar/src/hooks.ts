@@ -6,9 +6,9 @@ import {
     useCurveInterpolation,
     usePropertyAccessor,
     useValueFormatter,
-} from '@nivo/core'
-import { degreesToRadians } from '@nivo/core'
-import { useOrdinalColorScale } from '@nivo/colors'
+} from '@anarock/nivo-core'
+import { degreesToRadians } from '@anarock/nivo-core'
+import { useOrdinalColorScale } from '@anarock/nivo-colors'
 import { svgDefaultProps } from './props'
 import {
     RadarColorMapping,

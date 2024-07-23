@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { BasicTooltip } from '@nivo/tooltip'
+import { BasicTooltip } from '@anarock/nivo-tooltip'
 import { BumpDatum, BumpPoint, BumpSerieExtraProps } from './types'
 
 interface PointTooltipProps<Datum extends BumpDatum, ExtraProps extends BumpSerieExtraProps> {

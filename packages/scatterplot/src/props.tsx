@@ -1,4 +1,4 @@
-import { CssMixBlendMode } from '@nivo/core'
+import { CssMixBlendMode } from '@anarock/nivo-core'
 import { Node } from './Node'
 import { Tooltip } from './Tooltip'
 import {

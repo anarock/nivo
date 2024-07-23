@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
-import { generateChordData } from '@nivo/generators'
-import { ChordCanvas } from '@nivo/chord'
+import { generateChordData } from '@anarock/nivo-generators'
+import { ChordCanvas } from '@anarock/nivo-chord'
 import { useHomeTheme } from './theme'
 import { dimensions } from './dimensions'
 

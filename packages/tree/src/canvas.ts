@@ -1,5 +1,5 @@
-import { degreesToRadians } from '@nivo/core'
-import { drawCanvasText } from '@nivo/text'
+import { degreesToRadians } from '@anarock/nivo-core'
+import { drawCanvasText } from '@anarock/nivo-text'
 import { LinkCanvasRendererProps, NodeCanvasRendererProps, LabelCanvasRendererProps } from './types'
 
 export const renderNode = <Datum>(

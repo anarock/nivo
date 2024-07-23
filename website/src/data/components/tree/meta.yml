@@ -5,7 +5,7 @@ flavors:
     path: /tree/canvas/
 
 Tree:
-  package: '@nivo/tree'
+  package: '@anarock/nivo-tree'
   tags:
     - experimental
     - hierarchy
@@ -28,7 +28,7 @@ Tree:
     is very close to the component's props.
 
 TreeCanvas:
-  package: '@nivo/tree'
+  package: '@anarock/nivo-tree'
   tags:
     - experimental
     - hierarchy

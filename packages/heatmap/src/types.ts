@@ -8,11 +8,11 @@ import {
     MotionProps,
     PropertyAccessor,
     ValueFormat,
-} from '@nivo/core'
-import { AxisProps, CanvasAxisProps } from '@nivo/axes'
-import { InheritedColorConfig, ContinuousColorScaleConfig } from '@nivo/colors'
-import { AnchoredContinuousColorsLegendProps } from '@nivo/legends'
-import { AnnotationMatcher } from '@nivo/annotations'
+} from '@anarock/nivo-core'
+import { AxisProps, CanvasAxisProps } from '@anarock/nivo-axes'
+import { InheritedColorConfig, ContinuousColorScaleConfig } from '@anarock/nivo-colors'
+import { AnchoredContinuousColorsLegendProps } from '@anarock/nivo-legends'
+import { AnnotationMatcher } from '@anarock/nivo-annotations'
 
 export interface HeatMapDatum {
     x: string | number

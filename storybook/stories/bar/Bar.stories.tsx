@@ -1,9 +1,9 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { generateCountriesData, sets } from '@nivo/generators'
+import { generateCountriesData, sets } from '@anarock/nivo-generators'
 import { random, range } from 'lodash'
-import { useTheme } from '@nivo/core'
-import { Bar, BarCanvas, BarDatum, BarItemProps } from '@nivo/bar'
-import { AxisTickProps } from '@nivo/axes'
+import { useTheme } from '@anarock/nivo-core'
+import { Bar, BarCanvas, BarDatum, BarItemProps } from '@anarock/nivo-bar'
+import { AxisTickProps } from '@anarock/nivo-axes'
 
 const meta: Meta<typeof Bar> = {
     title: 'Bar',

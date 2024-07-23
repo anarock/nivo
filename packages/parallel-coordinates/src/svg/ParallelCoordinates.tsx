@@ -1,7 +1,7 @@
 import { createElement, Fragment, ReactNode } from 'react'
-import { Container, SvgWrapper, useDimensions } from '@nivo/core'
-import { Axis } from '@nivo/axes'
-import { BoxLegendSvg } from '@nivo/legends'
+import { Container, SvgWrapper, useDimensions } from '@anarock/nivo-core'
+import { Axis } from '@anarock/nivo-axes'
+import { BoxLegendSvg } from '@anarock/nivo-legends'
 import { svgDefaultProps } from '../defaults'
 import { useParallelCoordinates } from '../hooks'
 import {

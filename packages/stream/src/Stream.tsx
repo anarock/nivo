@@ -5,9 +5,9 @@ import {
     useDimensions,
     // @ts-ignore
     bindDefs,
-} from '@nivo/core'
-import { Axes, Grid } from '@nivo/axes'
-import { BoxLegendSvg } from '@nivo/legends'
+} from '@anarock/nivo-core'
+import { Axes, Grid } from '@anarock/nivo-axes'
+import { BoxLegendSvg } from '@anarock/nivo-legends'
 import { StreamLayers } from './StreamLayers'
 import { StreamDots } from './StreamDots'
 import { StreamSlices } from './StreamSlices'

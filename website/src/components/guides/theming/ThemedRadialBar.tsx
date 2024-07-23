@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
-import { CompleteTheme } from '@nivo/core'
-import { ResponsiveRadialBar } from '@nivo/radial-bar'
+import { CompleteTheme } from '@anarock/nivo-core'
+import { ResponsiveRadialBar } from '@anarock/nivo-radial-bar'
 
 export const ThemedRadialBar = ({ theme }: { theme: CompleteTheme }) => {
     const data = useMemo(

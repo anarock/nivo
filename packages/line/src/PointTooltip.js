@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { BasicTooltip } from '@nivo/tooltip'
+import { BasicTooltip } from '@anarock/nivo-tooltip'
 
 const LinePointTooltip = ({ point }) => {
     return (

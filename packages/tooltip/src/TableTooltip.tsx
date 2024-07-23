@@ -1,5 +1,5 @@
 import { CSSProperties, memo, ReactNode } from 'react'
-import { useTheme } from '@nivo/core'
+import { useTheme } from '@anarock/nivo-core'
 
 const tableStyle = {
     width: '100%',
